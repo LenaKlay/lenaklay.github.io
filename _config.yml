@@ -11,25 +11,24 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Research
+    - name: Teaching
+    - name: Science communication
+    - name: Miscellaneous
 
 footer:
   show_powered_by: true
   contact:
     - type: email
       name: Email
-      value: myfirstname.mylastname@mnhn.fr
+      value: lena.klay@mnhn.fr
   follow:
     - type: linkedin
       name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: www.linkedin.com/in/léna-kläy-bba089195
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+      link: http://github.com/LenaKlay
 
 # Build settings
 markdown: kramdown
