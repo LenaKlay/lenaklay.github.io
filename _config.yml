@@ -17,7 +17,7 @@ header:
     - name: Miscellaneous
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - type: email
       name: Email
