@@ -6,9 +6,23 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  I am ...
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  Mes recherches portent principalement sur ...
 </p>
+
+<h2>Research</h2>
+
+<p>
+  ...
+</p>
+
+<h2>Timeline</h2>
+
+<ul>
+  <li><strong>2025–present</strong> — ...</li>
+  <li><strong>2022–2025</strong> — ...</li>
+  <li><strong>2019–2022</strong> — ...</li>
+</ul>
