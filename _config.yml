@@ -2,11 +2,10 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: Léna Kläy
-description: Bay is a minimal Jekyll Theme.
-baseurl: "/bay"
-url: "https://eliottvincent.github.io"
+description: Léna Kläy — Researcher
+baseurl: ""
+url: "https://lenaklay.github.io"
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
 
 header:
   pages:
