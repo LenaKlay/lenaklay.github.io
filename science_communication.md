@@ -5,13 +5,7 @@ title: Science communication
 
 ## Science communication
 
-### Talks
-
-...
-
-### Outreach
-
-...
+### Youth
 
 ### Media
 
