@@ -26,12 +26,12 @@ footer:
     - type: orcid
       name: Orcid
       link: https://orcid.org/0009-0006-8335-186X
-    - type: google_scholar
-      name: Google scholar
-      link: https://scholar.google.com/citations?user=OiSGrGYAAAAJ&hl=fr&oi=ao
     - type: github
       name: GitHub
       link: http://github.com/LenaKlay
+    - type: google_scholar
+      name: Google_scholar
+      link: https://scholar.google.com/citations?user=OiSGrGYAAAAJ&hl=fr&oi=ao
     
     
 
