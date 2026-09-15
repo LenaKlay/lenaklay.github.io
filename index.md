@@ -88,11 +88,13 @@ profile_picture:
 
 <style>
 .timeline-content a {
-  color: #2c4a63;
+  color: #1F3A5F;
+  text-decoration: none;
 }
 
 .timeline-content a:hover {
-  color: #1a3347;
+  color: #142A45;
+  text-decoration: underline;
 }
   
 .timeline {
