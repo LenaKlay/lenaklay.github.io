@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 </p>
 
 
@@ -24,9 +24,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <img src="{{ '/assets/img/logos/mnhn.png' | relative_url }}" alt="MNHN">
     </div>
     <div class="timeline-content">
-      <strong>2025–present — Postdoc in <a href="https://cesco.mnhn.fr/fr" target="_blank" rel="noopener noreferrer">
+      <strong>2025–present — Postdoc at <a href="https://cesco.mnhn.fr/fr" target="_blank" rel="noopener noreferrer">
     CESCO </a> </strong>
-      <p> Causal inference to quantify pesticide impact on birds </p>
+      <p> Causal inference to quantify pesticide effects on birds declines </p>
     </div>
   </div>
 
