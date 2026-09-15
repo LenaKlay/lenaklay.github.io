@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-<h2>Timeline</h2>
+<h2>Academic timeline</h2>
 
 <div class="timeline">
 
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <div class="timeline-content">
       <strong>2025–present — Postdoc at <a href="https://cesco.mnhn.fr/fr" target="_blank" rel="noopener noreferrer">
     CESCO </a> </strong>
-      <p> Causal inference to quantify pesticide effects on birds declines </p>
+      <p> Causal inference to quantify pesticide effects on bird population declines </p>
     </div>
   </div>
 
