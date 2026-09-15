@@ -28,7 +28,7 @@ profile_picture:
       <img src="{{ '/assets/img/logos/mnhn.png' | https://www.mnhn.fr/fr }}" alt="MNHN">
     </div>
     <div class="timeline-content">
-      <strong>2025–present</strong>
+      <strong>2025–present: Postdoc</strong>
       <p>Postdoctoral researcher — Muséum national d'Histoire naturelle</p>
     </div>
   </div>
@@ -38,7 +38,7 @@ profile_picture:
       <img src="{{ '/assets/img/logos/ubo.png' | https://www.univ-brest.fr/fr }}" alt="UBO">
     </div>
     <div class="timeline-content">
-      <strong>2024–2025</strong>
+      <strong>Postdoc (2024–2025)</strong>
       <p>Postdoctoral researcher — UBO</p>
     </div>
   </div>
@@ -48,7 +48,7 @@ profile_picture:
       <img src="{{ '/assets/img/logos/sorbonne.png' | https://iees-paris.fr/ }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
-      <strong>2020–2023</strong>
+      <strong>PhD: 2020–2023</strong>
       <p>PhD — Sorbonne Université</p>
     </div>
   </div>
