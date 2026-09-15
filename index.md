@@ -55,21 +55,11 @@ profile_picture:
 
   <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/m2.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+      <img src="{{ '/assets/img/logos/paris_sud.png' | https://iees-paris.fr/ }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
       <strong>2019–2020 — MSc</strong>
-      <p>	Mathematics for Life Sciences (2nd year)</p>
-    </div> 
-  </div>
-
-   <div class="timeline-item">
-    <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/m1.png' | https://iees-paris.fr/ }}" alt="sorbonne">
-    </div>
-    <div class="timeline-content">
-      <strong>2018–2019 — MSc</strong>
-      <p>	Master in Applied Mathematics (1rst year)</p>
+      <p>	Mathematics for Life Sciences</p>
     </div> 
   </div>
 
@@ -78,8 +68,8 @@ profile_picture:
       <img src="{{ '/assets/img/logos/epfl.png' | https://iees-paris.fr/ }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
-      <strong>2017–2018 — BSc</strong>
-      <p>	Bachelor in Mathematics (3rd year)</p>
+      <strong>2017–2018 — BSc (year abroad)</strong>
+      <p>	Bachelor in Mathematics</p>
     </div> 
   </div>
 
@@ -89,7 +79,7 @@ profile_picture:
     </div>
     <div class="timeline-content">
       <strong>2015–2017 — BSc</strong>
-      <p>	Double Bachelor in Mathematics and Biology (1rst and 2nd years)</p>
+      <p>	Double Bachelor in Mathematics and Biology</p>
     </div> 
   </div>
   
