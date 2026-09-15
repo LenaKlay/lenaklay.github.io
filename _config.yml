@@ -26,12 +26,13 @@ footer:
     - type: orcid
       name: Orcid
       link: https://orcid.org/0009-0006-8335-186X
-    - type: github
-      name: GitHub
-      link: http://github.com/LenaKlay
     - type: googlescholar
       name: Google Scholar
       link: https://scholar.google.com/citations?user=OiSGrGYAAAAJ&hl=fr&oi=ao
+    - type: github
+      name: GitHub
+      link: http://github.com/LenaKlay
+    
 
 # Build settings
 markdown: kramdown
