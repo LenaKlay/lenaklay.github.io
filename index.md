@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <img src="{{ '/assets/img/logos/epfl.png' | relative_url }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
-      <strong>2017–2018 — BSc at <a href="[https://sites.google.com/view/m2-msv/accueil](https://www.epfl.ch/fr/)" target="_blank" rel="noopener noreferrer"> 
+      <strong>2017–2018 — BSc at <a href="https://www.epfl.ch/fr/" target="_blank" rel="noopener noreferrer"> 
        EPFL  </a> (year abroad)</strong>
       <p>	Bachelor in Mathematics</p>
     </div> 
