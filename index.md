@@ -54,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/paris_sud.png' | relative_url }}" alt="sorbonne">
+      <img src="{{ '/assets/img/logos/paris_sud.png' | relative_url }}" alt="paris sud">
     </div>
     <div class="timeline-content">
       <strong>2019–2020 — MSc at <a href="https://sites.google.com/view/m2-msv/accueil" target="_blank" rel="noopener noreferrer"> 
@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/epfl.png' | relative_url }}" alt="sorbonne">
+      <img src="{{ '/assets/img/logos/epfl.png' | relative_url }}" alt="epfl">
     </div>
     <div class="timeline-content">
       <strong>2017–2018 — BSc at <a href="https://www.epfl.ch/fr/" target="_blank" rel="noopener noreferrer"> 
@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
    <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/lbm.png' | relative_url }}" alt="sorbonne">
+      <img src="{{ '/assets/img/logos/lbm.png' | relative_url }}" alt="LBM">
     </div>
     <div class="timeline-content">
       <strong>2015–2017 — BSc at <a href="https://www.sb-roscoff.fr/fr" target="_blank" rel="noopener noreferrer"> 
