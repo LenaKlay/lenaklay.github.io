@@ -87,6 +87,14 @@ profile_picture:
 
 
 <style>
+.timeline-content a {
+  color: #2c4a63;
+}
+
+.timeline-content a:hover {
+  color: #1a3347;
+}
+  
 .timeline {
   margin: 2rem 0;
 }
