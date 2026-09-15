@@ -21,8 +21,28 @@ profile_picture:
 
 <h2>Timeline</h2>
 
-<ul>
-  <li><strong>2025–present</strong> — ...</li>
-  <li><strong>2022–2025</strong> — ...</li>
-  <li><strong>2019–2022</strong> — ...</li>
-</ul>
+<div class="timeline">
+
+  <div class="timeline-item">
+    <div class="timeline-logo">
+      <img src="{{ '/assets/img/logos/mnhn.png' | https://www.mnhn.fr/fr }}" alt="MNHN">
+    </div>
+    <div class="timeline-content">
+      <strong>2025–present</strong>
+      <p>Postdoctoral researcher — Muséum national d'Histoire naturelle</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-logo">
+      <img src="{{ '/assets/img/logos/ubo.png' | https://www.univ-brest.fr/fr }}" alt="UBO">
+    </div>
+    <div class="timeline-content">
+      <strong>2024–2025</strong>
+      <p>Postdoctoral researcher — UBO</p>
+    </div>
+  </div>
+
+  
+
+</div>
