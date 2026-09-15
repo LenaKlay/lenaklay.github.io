@@ -21,7 +21,7 @@ profile_picture:
 
   <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/mnhn.png' | https://www.mnhn.fr/fr }}" alt="MNHN">
+      <img src="{{ '/assets/img/logos/mnhn.png' | relative_url }}" alt="MNHN">
     </div>
     <div class="timeline-content">
       <strong>2025–present — Postdoc at <a href="https://cesco.mnhn.fr/fr" target="_blank" rel="noopener noreferrer">
@@ -32,7 +32,7 @@ profile_picture:
 
   <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/ubo.png' | https://www.univ-brest.fr/fr }}" alt="UBO">
+      <img src="{{ '/assets/img/logos/ubo.png' | relative_url }}" alt="UBO">
     </div>
     <div class="timeline-content">
       <strong> 2024–2025  — Postdoc at <a href="https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr" target="_blank" rel="noopener noreferrer">
@@ -43,17 +43,18 @@ profile_picture:
 
   <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/sorbonne.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+      <img src="{{ '/assets/img/logos/sorbonne.png' | relative_url }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
-      <strong>2020–2023 — PhD at  <a href="[https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr](https://iees-paris.fr/)" target="_blank" rel="noopener noreferrer"> iEES Paris </a> </strong>
+      <strong>2020–2023 — PhD at  <a href="https://iees-paris.fr" target="_blank" rel="noopener noreferrer"> 
+        iEES Paris </a> </strong>
       <p>	Mathematical models of gene drive for population management</p>
     </div> 
   </div>
 
   <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/paris_sud.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+      <img src="{{ '/assets/img/logos/paris_sud.png' | relative_url }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
       <strong>2019–2020 — MSc</strong>
@@ -63,7 +64,7 @@ profile_picture:
 
   <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/epfl.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+      <img src="{{ '/assets/img/logos/epfl.png' | relative_url }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
       <strong>2017–2018 — BSc (year abroad)</strong>
@@ -73,7 +74,7 @@ profile_picture:
 
    <div class="timeline-item">
     <div class="timeline-logo">
-      <img src="{{ '/assets/img/logos/lbm.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+      <img src="{{ '/assets/img/logos/lbm.png' | relative_url }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
       <strong>2015–2017 — BSc</strong>
