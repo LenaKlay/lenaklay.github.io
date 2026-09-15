@@ -46,3 +46,41 @@ profile_picture:
   
 
 </div>
+
+
+<style>
+.timeline {
+  margin: 2rem 0;
+}
+
+.timeline-item {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.timeline-logo {
+  width: 70px;
+  height: 70px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.timeline-logo img {
+  max-width: 60px;
+  max-height: 60px;
+  object-fit: contain;
+}
+
+.timeline-content strong {
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.timeline-content p {
+  margin: 0;
+}
+</style>
