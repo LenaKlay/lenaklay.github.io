@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 </p>
 
 
@@ -24,7 +24,7 @@ profile_picture:
       <img src="{{ '/assets/img/logos/mnhn.png' | relative_url }}" alt="MNHN">
     </div>
     <div class="timeline-content">
-      <strong>2025–present — Postdoc at <a href="https://cesco.mnhn.fr/fr" target="_blank" rel="noopener noreferrer">
+      <strong>2025–present — Postdoc in <a href="https://cesco.mnhn.fr/fr" target="_blank" rel="noopener noreferrer">
     CESCO </a> </strong>
       <p> Causal inference to quantify pesticide impact on birds </p>
     </div>
@@ -57,7 +57,8 @@ profile_picture:
       <img src="{{ '/assets/img/logos/paris_sud.png' | relative_url }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
-      <strong>2019–2020 — MSc</strong>
+      <strong>2019–2020 — MSc at <a href="https://sites.google.com/view/m2-msv/accueil" target="_blank" rel="noopener noreferrer"> 
+       MSV  </a> </strong> 
       <p>	Mathematics for Life Sciences</p>
     </div> 
   </div>
@@ -67,7 +68,8 @@ profile_picture:
       <img src="{{ '/assets/img/logos/epfl.png' | relative_url }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
-      <strong>2017–2018 — BSc (year abroad)</strong>
+      <strong>2017–2018 — BSc at <a href="[https://sites.google.com/view/m2-msv/accueil](https://www.epfl.ch/fr/)" target="_blank" rel="noopener noreferrer"> 
+       EPFL  </a> (year abroad)</strong>
       <p>	Bachelor in Mathematics</p>
     </div> 
   </div>
@@ -77,7 +79,8 @@ profile_picture:
       <img src="{{ '/assets/img/logos/lbm.png' | relative_url }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
-      <strong>2015–2017 — BSc</strong>
+      <strong>2015–2017 — BSc at <a href="https://www.sb-roscoff.fr/fr" target="_blank" rel="noopener noreferrer"> 
+       SBR  </a></strong>
       <p>	Double Bachelor in Mathematics and Biology</p>
     </div> 
   </div>
