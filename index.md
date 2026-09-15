@@ -10,14 +10,10 @@ profile_picture:
 </p>
 
 <p>
-  I am ...
+...
 </p>
 
-<h2>Research</h2>
 
-<p>
-  ...
-</p>
 
 <h2>Timeline</h2>
 
@@ -28,7 +24,8 @@ profile_picture:
       <img src="{{ '/assets/img/logos/mnhn.png' | https://www.mnhn.fr/fr }}" alt="MNHN">
     </div>
     <div class="timeline-content">
-      <strong>2025–present — Postdoc at Cesco </strong>
+      <strong>2025–present — Postdoc at <a href="https://cesco.mnhn.fr/fr" target="_blank" rel="noopener noreferrer">
+    CESCO </a> </strong>
       <p> Causal inference to quantify pesticide impact on birds </p>
     </div>
   </div>
@@ -38,7 +35,8 @@ profile_picture:
       <img src="{{ '/assets/img/logos/ubo.png' | https://www.univ-brest.fr/fr }}" alt="UBO">
     </div>
     <div class="timeline-content">
-      <strong> 2024–2025  — Postdoc at LMBA</strong>
+      <strong> 2024–2025  — Postdoc at <a href="https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr" target="_blank" rel="noopener noreferrer">
+    LMBA </a> </strong>
       <p>Modelling dengue and chikungunya transmission in Mayotte</p>
     </div>
   </div>
@@ -48,7 +46,7 @@ profile_picture:
       <img src="{{ '/assets/img/logos/sorbonne.png' | https://iees-paris.fr/ }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
-      <strong>2020–2023 — PhD at iEES Paris</strong>
+      <strong>2020–2023 — PhD at  <a href="[https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr](https://iees-paris.fr/)" target="_blank" rel="noopener noreferrer"> iEES Paris </a> </strong>
       <p>	Mathematical models of gene drive for population management</p>
     </div> 
   </div>
