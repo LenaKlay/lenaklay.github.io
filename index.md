@@ -43,6 +43,16 @@ profile_picture:
     </div>
   </div>
 
+  <div class="timeline-item">
+    <div class="timeline-logo">
+      <img src="{{ '/assets/img/logos/sorbonne.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+    </div>
+    <div class="timeline-content">
+      <strong>2020–2023</strong>
+      <p>PhD — Sorbonne Université</p>
+    </div>
+  </div>
+
   
 
 </div>
