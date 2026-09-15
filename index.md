@@ -28,8 +28,8 @@ profile_picture:
       <img src="{{ '/assets/img/logos/mnhn.png' | https://www.mnhn.fr/fr }}" alt="MNHN">
     </div>
     <div class="timeline-content">
-      <strong>Postdoc (2025–present)</strong>
-      <p> Causal inference for assessing pesticide effects on biodiversity </p>
+      <strong>2025–present — Postdoc at Cesco </strong>
+      <p> Causal inference to quantify pesticide impact on birds </p>
     </div>
   </div>
 
@@ -38,7 +38,7 @@ profile_picture:
       <img src="{{ '/assets/img/logos/ubo.png' | https://www.univ-brest.fr/fr }}" alt="UBO">
     </div>
     <div class="timeline-content">
-      <strong> Postdoc (2024–2025)</strong>
+      <strong> 2024–2025  — Postdoc at LMBA</strong>
       <p>Modelling dengue and chikungunya transmission in Mayotte</p>
     </div>
   </div>
@@ -48,11 +48,50 @@ profile_picture:
       <img src="{{ '/assets/img/logos/sorbonne.png' | https://iees-paris.fr/ }}" alt="sorbonne">
     </div>
     <div class="timeline-content">
-      <strong>PhD (2020–2023)</strong>
+      <strong>2020–2023 — PhD at iEES Paris</strong>
       <p>	Mathematical models of gene drive for population management</p>
-    </div>
+    </div> 
   </div>
 
+  <div class="timeline-item">
+    <div class="timeline-logo">
+      <img src="{{ '/assets/img/logos/m2.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+    </div>
+    <div class="timeline-content">
+      <strong>2019–2020 — MSc</strong>
+      <p>	Mathematics for Life Sciences (2nd year)</p>
+    </div> 
+  </div>
+
+   <div class="timeline-item">
+    <div class="timeline-logo">
+      <img src="{{ '/assets/img/logos/m1.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+    </div>
+    <div class="timeline-content">
+      <strong>2018–2019 — MSc</strong>
+      <p>	Master in Applied Mathematics (1rst year)</p>
+    </div> 
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-logo">
+      <img src="{{ '/assets/img/logos/epfl.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+    </div>
+    <div class="timeline-content">
+      <strong>2017–2018 — BSc</strong>
+      <p>	Bachelor in Mathematics (3rd year)</p>
+    </div> 
+  </div>
+
+   <div class="timeline-item">
+    <div class="timeline-logo">
+      <img src="{{ '/assets/img/logos/lbm.png' | https://iees-paris.fr/ }}" alt="sorbonne">
+    </div>
+    <div class="timeline-content">
+      <strong>2015–2017 — BSc</strong>
+      <p>	Double Bachelor in Mathematics and Biology (1rst and 2nd years)</p>
+    </div> 
+  </div>
   
 
 </div>
