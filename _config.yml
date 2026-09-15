@@ -23,12 +23,17 @@ footer:
       name: Email
       value: lena.klay@mnhn.fr
   follow:
-    - type: linkedin
-      name: LinkedIn
-      link: www.linkedin.com/in/léna-kläy-bba089195
+    - type: orcid
+      name: Orcid
+      link: https://orcid.org/0009-0006-8335-186X
+    - type: google_scholar
+      name: Google scholar
+      link: https://scholar.google.com/citations?user=OiSGrGYAAAAJ&hl=fr&oi=ao
     - type: github
       name: GitHub
       link: http://github.com/LenaKlay
+    
+    
 
 # Build settings
 markdown: kramdown
