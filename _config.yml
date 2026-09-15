@@ -23,7 +23,7 @@ footer:
       name: Email
       value: lena.klay@mnhn.fr
   follow:
-    - type: google scholar
+    - type: googlescholar
       name: Google Scholar
       link: https://scholar.google.com/citations?user=OiSGrGYAAAAJ&hl=fr&oi=ao
     - type: github
