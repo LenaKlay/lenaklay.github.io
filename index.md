@@ -6,11 +6,11 @@ profile_picture:
 ---
 
 <p>
-  I am ...
+  [ Site en cours de création ]
 </p>
 
 <p>
-  Mes recherches portent principalement sur ...
+  I am ...
 </p>
 
 <h2>Research</h2>
