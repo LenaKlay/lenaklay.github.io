@@ -19,8 +19,11 @@ I am currently a postdoctoral researcher at CESCO (Centre for Ecology and Conser
 My interdisciplinary background has led me to address biological questions using a range of mathematical approaches, including statistical inference, differential equations, and numerical simulations. An overview of my projects are available <a href="{{site.baseurl}}/research/">here</a>, as well as a list of my publications and talks.
 </p>
 
+
+
 <p>
-  You can find my CV here [Eng({{ '/assets/pdf/CV_Lena_Klay_en.pdf' | relative_url }}) / Fr({{ '/assets/pdf/CV_Lena_Klay_fr.pdf' | relative_url }})]. 
+  You can download my CV here [<a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_en.pdf">Eng</a> / 
+<a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_fr.pdf">Fr</a>]. 
 </p>
 
 <p>
