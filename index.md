@@ -66,7 +66,7 @@ My interdisciplinary background has led me to address biological questions using
       <img src="{{ '/assets/img/logos/paris_sud.png' | relative_url }}" alt="paris sud">
     </div>
     <div class="timeline-content">
-      <strong>2019–2020 — MSc at <a href="https://sites.google.com/view/m2-msv/accueil" target="_blank" rel="noopener noreferrer"> 
+      <strong>2018–2020 — MSc at <a href="https://sites.google.com/view/m2-msv/accueil" target="_blank" rel="noopener noreferrer"> 
        MSV  </a> </strong> 
       <p>	Mathematics for Life Sciences</p>
     </div> 
