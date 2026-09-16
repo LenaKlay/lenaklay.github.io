@@ -16,7 +16,7 @@ I am currently a postdoctoral researcher at CESCO (Centre for Ecology and Conser
  </p>
 
  <p>
-My interdisciplinary background has led me to address biological questions using a range of mathematical approaches, including statistical inference, differential equations, and numerical simulations. An overview of my projects, as well as a list of my publications and talks can be found on ly <a href="{{site.baseurl}}/research/">research page</a>. Alongside my research, I am also involved in <a href="{{site.baseurl}}/teaching/">teaching</a> and <a href="{{site.baseurl}}/science_communication/">science communication</a>.
+My interdisciplinary background has led me to address biological questions using a range of mathematical approaches, including statistical inference, differential equations, and numerical simulations. An overview of my projects, as well as a list of my publications and talks can be found on my <a href="{{site.baseurl}}/research/">research page</a>. Alongside my research, I am also involved in <a href="{{site.baseurl}}/teaching/">teaching</a> and <a href="{{site.baseurl}}/science_communication/">science communication</a>.
 </p>
 
 
