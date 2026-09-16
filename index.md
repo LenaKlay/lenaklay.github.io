@@ -23,7 +23,11 @@ My interdisciplinary background has led me to address biological questions using
   You can find my CV here [Eng({{ '/assets/pdf/CV_Lena_Klay_en.pdf' | relative_url }}) / Fr({{ '/assets/pdf/CV_Lena_Klay_fr.pdf' | relative_url }})]. 
 </p>
 
-<h2>Academic timeline</h2>
+<p>
+  
+</p>
+
+<h1>Academic timeline</h1>
 
 <div class="timeline">
 
