@@ -27,7 +27,7 @@ My interdisciplinary background has led me to address biological questions using
   
 </p>
 
-<h3>Academic timeline</h3>
+<h2>Academic timeline</h2>
 
 <div class="timeline">
 
