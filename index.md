@@ -9,14 +9,14 @@ profile_picture:
   [ Site en cours de création ]
 </p>
 
-<h2>About me</h2>
+<h1>About me</h1>
 
 <p>
 I am currently a postdoctoral researcher at CESCO (Centre for Ecology and Conservation Science), Muséum national d’Histoire naturelle, working with Emmanuelle Porcher, Stéphane Robin, and Colin Fontaine.
  </p>
 
  <p>
-My interdisciplinary background has led me to address biological questions using a range of mathematical approaches, including statistical inference, differential equations, and numerical simulations. An overview of my projects are available here, as well as a list of my publications and talks [research]({{ '/research' | relative_url }}).
+My interdisciplinary background has led me to address biological questions using a range of mathematical approaches, including statistical inference, differential equations, and numerical simulations. An overview of my projects are available here, as well as a list of my publications and talks [research]({{ '/research/' | relative_url }}).
 </p>
 
 <p>
@@ -27,7 +27,7 @@ My interdisciplinary background has led me to address biological questions using
   
 </p>
 
-<h1>Academic timeline</h1>
+<h3>Academic timeline</h3>
 
 <div class="timeline">
 
