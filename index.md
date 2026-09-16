@@ -20,14 +20,8 @@ My interdisciplinary background has led me to address biological questions using
 </p>
 
 
-
 <p>
-  You can download my CV here [<a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_en.pdf">Eng</a> / 
-<a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_fr.pdf">Fr</a>]. 
-</p>
-
-<p>
-  
+     
 </p>
 
 <h2>Academic timeline</h2>
@@ -102,6 +96,11 @@ My interdisciplinary background has led me to address biological questions using
   
 
 </div>
+
+<p>
+  You can download my CV here [<a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_en.pdf">Eng</a> / 
+<a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_fr.pdf">Fr</a>]. 
+</p>
 
 
 <style>
