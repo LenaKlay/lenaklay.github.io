@@ -9,11 +9,19 @@ profile_picture:
   [ Site en cours de création ]
 </p>
 
+<h2>About me</h2>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+I am currently a postdoctoral researcher at CESCO (Centre for Ecology and Conservation Science), Muséum national d’Histoire naturelle, working with Emmanuelle Porcher, Stéphane Robin, and Colin Fontaine.
+ </p>
+
+ <p>
+My interdisciplinary background has led me to address biological questions using a range of mathematical approaches, including statistical inference, differential equations, and numerical simulations. An overview of my projects are available here, as well as a list of my publications and talks [research]({{ '/research' | relative_url }}).
 </p>
 
-
+<p>
+  You can find my CV here [Eng({{ '/assets/pdf/CV_Lena_Klay_en.pdf' | relative_url }}) / Fr({{ '/assets/pdf/CV_Lena_Klay_fr.pdf' | relative_url }})]. 
+</p>
 
 <h2>Academic timeline</h2>
 
