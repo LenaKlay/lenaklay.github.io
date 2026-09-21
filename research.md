@@ -39,8 +39,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 ### A brief overview
 
-<br /><br />
-
+<!-- INSERT_ITEMS -->
 
 ### Publications
 
