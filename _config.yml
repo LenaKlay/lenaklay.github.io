@@ -14,6 +14,7 @@ header:
     - name: Research
     - name: Teaching
     - name: Science communication
+      slug: /science_communication/
     - name: Miscellaneous
 
 footer:
