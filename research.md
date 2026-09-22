@@ -31,8 +31,6 @@ items:
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 ---
 
-
-
 ## Research 
 
 I have had the opportunity to apply mathematics to a wide range of fields, from ecology and epidemiology to genetics. The methods I use vary depending on the application, with a more recent focus on statistical approaches. Below is an overview of some of my projects.
