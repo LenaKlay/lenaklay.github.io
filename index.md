@@ -68,7 +68,7 @@ My research lies at the interface of mathematics and biology. I am deeply intere
     <div class="timeline-content">
       <strong>2018–2020 — MSc at <a href="https://sites.google.com/view/m2-msv/accueil" target="_blank" rel="noopener noreferrer"> 
        MSV  </a> </strong> 
-      <p>	Mathematics for Life Sciences</p>
+      <p>	Master in Mathematics for Life Sciences</p>
     </div> 
   </div>
 
