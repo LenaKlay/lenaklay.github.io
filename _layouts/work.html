@@ -9,12 +9,12 @@
 ```
 <div class="page-content">
   <div class="wrapper">
+
+    {% assign content_parts = content | split: '<!-- INSERT_ITEMS -->' %}
+
+    {{ content_parts[0] }}
+
     <div class="work">
-
-      {% assign content_parts = content | split: '<!-- INSERT_ITEMS -->' %}
-
-      {{ content_parts[0] }}
-
       {% for item in page.items %}
       <div class="work-item">
         <img
@@ -29,14 +29,12 @@
         </span>
       </div>
       {% endfor %}
-
-      {{ content_parts[1] }}
     </div>
+
+    {{ content_parts[1] }}
+
   </div>
 </div>
-
-{% include footer.html %}
-{% include foot.html %}
 ```
 
   </body>
