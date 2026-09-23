@@ -12,13 +12,13 @@ profile_picture:
 <h1>About me</h1>
 
 <p>
-I am Léna Kläy, a postdoctoral researcher at CESCO (Centre for Ecology and Conservation Science), Muséum national d’Histoire naturelle, working with Emmanuelle Porcher, Stéphane Robin, and Colin Fontaine.
+I am Léna Kläy, a postdoctoral researcher at CESCO (Centre for Ecology and Conservation Science), Muséum national d’Histoire naturelle, working with Emmanuelle Porcher, Stéphane Robin, and Colin Fontaine. 
  </p>
 
  <p>
-My interdisciplinary background has led me to address biological questions using a range of mathematical approaches, including statistical inference, differential equations, and numerical simulations. An overview of my projects, as well as a list of my publications and talks can be found on my <a href="{{site.baseurl}}/research/">research page</a>. Alongside my research, I am also involved in <a href="{{site.baseurl}}/teaching/">teaching</a> and <a href="{{site.baseurl}}/science_communication/">science communication</a>.
-</p>
 
+My research lies at the interface of mathematics and biology.I am deeply interested in how mathematical approaches contribute to better understand biological systems, and can help inform public decision-making. Conversely, biological systems raise new mathematical questions models and perspectives that I find particularly fascinating to explore. Alongside my <a href="{{site.baseurl}}/research/">research</a>, I am also involved in <a href="{{site.baseurl}}/teaching/">teaching</a> and <a href="{{site.baseurl}}/science_communication/">science communication</a>.
+</p>
 
 <p>
      
