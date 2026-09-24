@@ -12,10 +12,13 @@ I have enjoyed teaching during both my PhD and my first postdoctoral position. A
 
 | Years | Course | Institution | Level |
 |------|--------|-------------|-------|
-| 2024–2025 | Statistics and Probability | University of Western Brittany | BSc |
-| 2020–2022 | Mathematics and Statistics for Biology | Sorbonne University | BSc |
-| 2020–2022 | Programming Fundamentals for Biologists | Sorbonne University | BSc |
+| 2024–2025 | Statistics and probability | University of Western Brittany | BSc |
+| 2020–2022 | Mathematics and statistics for biology | Sorbonne University | BSc |
+| 2020–2022 | Programming fundamentals for biologists | Sorbonne University | BSc |
 
 ### Supervision
 
-...
+I also had the pleasure of supervising two students:
+
+- Xavier Mauger (2026 — ...), MSc and PhD — Geostatistical modeling to assess the effect of pesticides on common bird abundance,
+- Joris Fresard (2023), MSc — Modeling the spatial spread of an allele under frequency-dependent selection.
