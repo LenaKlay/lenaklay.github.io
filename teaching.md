@@ -21,22 +21,3 @@ I have enjoyed teaching during both my PhD and my first postdoctoral position. A
 ## Supervision
 
 ...
-
-
-
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.5em 0;
-}
-
-th, td {
-  padding: 0.6em 0.8em;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-}
-
-th {
-  font-weight: 600;
-}
