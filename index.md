@@ -20,9 +20,7 @@ I am Léna Kläy, a postdoctoral researcher at CESCO (Centre for Ecology and Con
 My research lies at the interface of mathematics and biology. I am deeply interested in how mathematical approaches contribute to better understand biological systems, and can help inform public decision-making. Conversely, biological systems raise new mathematical questions and models that I find particularly fascinating to explore. Alongside my <a href="{{site.baseurl}}/research/">research</a>, I am also involved in <a href="{{site.baseurl}}/teaching/">teaching</a> and <a href="{{site.baseurl}}/science_communication/">science communication</a>.
 </p>
 
-<p>
-     
-</p>
+<div style="height: 20px;"></div>
 
 <h2>Academic timeline</h2>
 
