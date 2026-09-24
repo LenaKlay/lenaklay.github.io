@@ -23,4 +23,4 @@ I also had the pleasure of supervising two students:
 - **Xavier Mauger** (2026), MSc — *Geostatistical modeling to assess the effect of pesticides on common bird abundance*,
 - **Joris Fresard** (2023), MSc — *Modeling the spatial spread of an allele under frequency-dependent selection*.
 
-Xavier Mauger has successfully passed the doctoral school selection process and will continue this research as a PhD student with us!
+Xavier Mauger has successfully passed the doctoral school selection process this year, and will continue this research as a PhD student!
