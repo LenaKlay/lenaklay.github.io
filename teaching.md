@@ -12,9 +12,9 @@ I have enjoyed teaching during both my PhD and my first postdoctoral position. A
 
 | Year | Course | Institution | Level |
 |------|--------|-------------|-------|
-| 2024-2025 | Biostatistics | University of Western Brittany | BSc in Biology  |
-| 2020-2022 | Bioinformatics | Sorbonne University | BSc in Biology  |
-| 2020-2022 | Biostatistics | Sorbonne University | BSc in Biology |
+| 2024–2025 | Biostatistics | University of Western Brittany | BSc in Biology  |
+| 2020–2022 | Bioinformatics | Sorbonne University | BSc in Biology  |
+| 2020–2022 | Biostatistics | Sorbonne University | BSc in Biology |
 
 ### Supervision
 
