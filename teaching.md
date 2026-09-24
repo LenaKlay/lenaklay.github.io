@@ -20,5 +20,5 @@ I have enjoyed teaching during both my PhD and my first postdoctoral position. A
 
 I also had the pleasure of supervising two students:
 
-- Xavier Mauger (2026 — ...), MSc and PhD — Geostatistical modeling to assess the effect of pesticides on common bird abundance,
-- Joris Fresard (2023), MSc — Modeling the spatial spread of an allele under frequency-dependent selection.
+- **Xavier Mauger** (2026 — ), MSc and PhD — *Geostatistical modeling to assess the effect of pesticides on common bird abundance*,
+- **Joris Fresard** (2023), MSc — *Modeling the spatial spread of an allele under frequency-dependent selection*.
