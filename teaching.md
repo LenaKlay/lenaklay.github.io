@@ -16,6 +16,8 @@ I have enjoyed teaching during both my PhD and my first postdoctoral position. A
 | 2020–2022 | Mathematics and statistics for biology | Sorbonne University | BSc |
 | 2020–2022 | Programming fundamentals for biologists | Sorbonne University | BSc |
 
+<div style="height: 20px;"></div>
+
 ### Supervision
 
 I also had the pleasure of supervising two students:
