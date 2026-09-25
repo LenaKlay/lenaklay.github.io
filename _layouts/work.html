@@ -28,13 +28,12 @@
 
           {% if item.collaborators %}
       <span class="work-meta">
-        <strong>Collaborators:</strong> {{ item.collaborators }}
+        {{ item.collaborators }}
       </span>
     {% endif %}
 
     {% if item.methods %}
       <span class="work-meta">
-        <strong>Methods:</strong>
         {% for method in item.methods %}
           <span class="method-tag">{{ method }}</span>
         {% endfor %}
