@@ -34,7 +34,7 @@ My research lies at the interface of mathematics and biology. I am deeply intere
       <strong>2025–present — Postdoc at <a href="https://cesco.mnhn.fr/fr" target="_blank" rel="noopener noreferrer">
     CESCO </a> </strong>
       <p> Causal inference to quantify pesticide effects on bird population declines </p>
-      <span class="supervisor">Emmanuelle Porcher, Stéphane Robin & Colin Fontaine</span>
+      <span class="supervisor">with Emmanuelle Porcher, Stéphane Robin & Colin Fontaine</span>
     </div>
   </div>
 
@@ -46,7 +46,7 @@ My research lies at the interface of mathematics and biology. I am deeply intere
       <strong> 2024–2025  — Postdoc at <a href="https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr" target="_blank" rel="noopener noreferrer">
     LMBA </a> </strong>
       <p>Modelling dengue and chikungunya transmission in Mayotte</p>
-      <span class="supervisor">Vincent Calvez</span>
+      <span class="supervisor">with Vincent Calvez</span>
     </div>
   </div>
 
@@ -58,7 +58,7 @@ My research lies at the interface of mathematics and biology. I am deeply intere
       <strong>2020–2023 — PhD at  <a href="https://iees-paris.fr" target="_blank" rel="noopener noreferrer"> 
         iEES Paris </a> </strong>
       <p>	Mathematical models of gene drive for population management</p>
-      <span class="supervisor">Florence Débarre & Vincent Calvez</span>
+      <span class="supervisor">with Florence Débarre & Vincent Calvez</span>
     </div> 
   </div>
 
