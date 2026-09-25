@@ -42,6 +42,18 @@ th {
   margin-top: 0.3rem;
 }
 
+.work-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.work-item {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
 .method-tag {
   display: inline-block;
   font-family: monospace;
