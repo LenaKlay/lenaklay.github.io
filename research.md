@@ -9,31 +9,51 @@ items:
       src: /assets/img/work/bird.png
       alt: bird
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    collaborators: Emmanuelle Porcher, Stéphane Robin, Colin Fontaine
+    collaborators: Emmanuelle Porcher, Stéphane Robin & Colin Fontaine
     methods:
-      - R
-      - INLA-SPDE
       - Causal inference
+      - R
   - title: Modeling dengue and chikungunya outbreaks in Mayotte
     image:
       src: /assets/img/work/deng.png
       alt: deng
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    collaborators: Vincent Calvez
+    methods:
+      - MCMC
+      - Statistical inference
+      - Python
+      - R
   - title: Study the spatial and temporal spread of gene drive alleles
     image:
       src: /assets/img/work/genedrive.png
       alt: genedrive
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    collaborators: Florence Débarre & Vincent Calvez
+    methods:
+      - Differential equations
+      - Numerical simulations
+      - Python
   - title: Modeling population dynamics of Batrocera dorsalis, a fruit fly pest
     image:
       src: /assets/img/work/fly.png
       alt: fly
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    collaborators: Yves Dumont
+    methods:
+      - Differential equations
+      - Numerical simulations
+      - Python
   - title: Study of the intra- and interspecific spatial distribution of trees
     image:
       src: /assets/img/work/tree.png
       alt: tree
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    collaborators: Eric Marcon, Stéphane Traissac & Géraldine Derroire
+    methods:
+      - INLA-SPDE
+      - Spatial inference
+      - R
 ---
 
 ## Research 
