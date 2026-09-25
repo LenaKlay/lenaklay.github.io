@@ -21,26 +21,25 @@
           alt="{{ item.image.alt }}"
           class="work-bubble"
         />
-        <span class="work-text">
-          <strong>{{ item.title }}</strong>
-          &mdash;
-          {{ item.description }}
+        <div class="work-text">
+  <strong>{{ item.title }}</strong>
+  &mdash;
+  {{ item.description }}
 
-          {% if item.collaborators %}
-      <span class="work-meta">
-        {{ item.collaborators }}
-      </span>
-    {% endif %}
+  {% if item.collaborators %}
+    <span class="work-meta">
+      {{ item.collaborators }}
+    </span>
+  {% endif %}
 
-    {% if item.methods %}
-      <span class="work-meta">
-        {% for method in item.methods %}
-          <span class="method-tag">{{ method }}</span>
-        {% endfor %}
-      </span>
-    {% endif %}
-          
-        </span>
+  {% if item.methods %}
+    <span class="work-meta">
+      {% for method in item.methods %}
+        <span class="method-tag">{{ method }}</span>
+      {% endfor %}
+    </span>
+  {% endif %}
+</div>
       </div>
       {% endfor %}
     </div>
