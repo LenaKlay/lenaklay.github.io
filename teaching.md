@@ -18,7 +18,7 @@ I have enjoyed teaching during both my PhD and my first postdoctoral position. A
 
 <div style="height: 20px;"></div>
 
-### Supervision
+### Student supervision
 
 I also had the pleasure of supervising two students:
 
