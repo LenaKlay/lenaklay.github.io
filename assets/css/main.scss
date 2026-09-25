@@ -87,3 +87,29 @@ th {
 .timeline-content p {
   margin: 0;
 }
+
+
+.work-meta {
+  display: block;
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.3rem;
+}
+
+.work-text {
+  flex: 1;
+  min-width: 0;
+}
+
+
+.method-tag {
+  display: inline-block;
+  font-family: monospace;
+  font-size: 0.8rem;
+  line-height: 1;
+  padding: 2px 3px;
+  margin-right: 2px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #666;
+}
