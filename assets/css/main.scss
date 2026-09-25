@@ -44,14 +44,14 @@ th {
 
 .method-tag {
   display: inline-block;
-  font-size: 0.75rem;
+  font-family: monospace;
+  font-size: 0.8rem;
   padding: 2px 7px;
   margin-right: 4px;
   border: 1px solid #ccc;
-  border-radius: 10px;
+  border-radius: 4px;
   color: #666;
 }
-
 
 .supervisor {
   display: block;
