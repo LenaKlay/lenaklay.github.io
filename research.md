@@ -10,8 +10,10 @@ items:
       alt: bird
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     collaborators: Emmanuelle Porcher, Stéphane Robin, Colin Fontaine
-    methods: - R
-             - R 
+    methods:
+      - R
+      - INLA-SPDE
+      - Causal inference
   - title: Modeling dengue and chikungunya outbreaks in Mayotte
     image:
       src: /assets/img/work/deng.png
