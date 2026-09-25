@@ -34,3 +34,13 @@ td {
 th {
   font-weight: 600;
 }
+
+.method-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px 7px;
+  margin-right: 4px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  color: #666;
+}
