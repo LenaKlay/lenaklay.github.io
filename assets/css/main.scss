@@ -35,36 +35,6 @@ th {
   font-weight: 600;
 }
 
-.work-meta {
-  display: block;
-  font-size: 0.85rem;
-  color: #888;
-  margin-top: 0.3rem;
-}
-
-.work-text {
-  flex: 1;
-  min-width: 0;
-}
-
-.work-item {
-  display: flex;
-  align-items: center;
-  gap: 30px;
-  margin-bottom: 40px;
-}
-
-.method-tag {
-  display: inline-block;
-  font-family: monospace;
-  font-size: 0.8rem;
-  line-height: 1;
-  padding: 2px 3px;
-  margin-right: 2px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  color: #666;
-}
 
 .supervisor {
   display: block;
