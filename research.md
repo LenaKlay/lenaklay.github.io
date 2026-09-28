@@ -67,7 +67,8 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 - **Reconstructing the History of Dengue Circulation in Mayotte (2014—2022).** [in preparation] — Char-
 lotte Camus, B.Fabrèges, L.Kläy, M.Soler, M.Ruello, H.Noël, J.Balicchi, V.Calvez. 
 
-- **Stochastic dynamics at the back of a gene drive eradication wave.** (2026) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Theoritical Population Biology* <a href="ttps://doi.org/10.1016/j.tpb.2026.02.001" target="_blank" rel="noopener noreferrer">
+- **Stochastic dynamics at the back of a gene drive eradication wave.** (2026) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Theoritical Population Biology* <a href="https://doi.org/10.1016/j.tpb.
+2026.02.001" target="_blank" rel="noopener noreferrer">
     [DOI] </a> 
 
 - **The spatial spread and the persistence of gene drives are affected by demogra-
