@@ -184,7 +184,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 .publication {
   display: grid;
-  grid-template-columns: 25px 1fr;
+  grid-template-columns: 20px 1fr;
   column-gap: 20px;
   margin-bottom: 0.5rem;
 }
