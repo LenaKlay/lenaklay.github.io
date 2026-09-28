@@ -12,10 +12,10 @@ I have enjoyed teaching during both my PhD and my first postdoctoral position.
 
 | Years | Course | Institution | Level | Hours |
 |------|--------|-------------|-------|-------|
-| 2024–25 | Statistics and probability | University of Western Brittany | BSc | 32h |
-| 2022–23 | Modelling and analysis of dynamic systems | AgroParisTech | BSc | 8h |
-| 2020–22 | Mathematics and statistics for biology | Sorbonne University | BSc | 64h |
-| 2020–22 | Programming fundamentals for biologists | Sorbonne University | BSc | 64h |
+| 2024–2025 | Statistics and probability | Univ. of Western Brittany | BSc | 32h |
+| 2022–2023 | Modelling and analysis of dynamic systems | AgroParisTech | BSc | 8h |
+| 2020–2022 | Mathematics and statistics for biology | Sorbonne University | BSc | 64h |
+| 2020–2022 | Programming fundamentals for biologists | Sorbonne University | BSc | 64h |
 
 As the Muséum is not directly affiliated with a university, I am not currently teaching, but it is an activity I value and would be very happy to pursue again in the future.
 
