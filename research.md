@@ -101,6 +101,21 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
     </div>
   </div>
 
+  <div class="publication-content">
+  <div class="publication-line">
+    <span class="publication-title">
+      Stochastic dynamics at the back of a gene drive eradication wave.
+    </span>
+    <span class="publication-authors">
+      L.Kläy, L.Girardin, F.Débarre, V.Calvez.
+    </span>
+    <span class="publication-journal">
+      <em>Theoretical Population Biology</em>
+      · <a href="https://doi.org/10.1016/j.tpb.2026.02.001" target="_blank" rel="noopener noreferrer">DOI</a>
+    </span>
+  </div>
+</div>
+
   <div class="publication">
     <div class="publication-year">2025</div>
 
@@ -170,6 +185,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 ### Talks
 
+- 
 
 
 <style>
@@ -180,7 +196,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 .publication {
   display: grid;
-  grid-template-columns: 50px 1fr;
+  grid-template-columns: 55px 1fr;
   column-gap: 25px;
   margin-bottom: 0.5rem;
 }
