@@ -70,14 +70,12 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
     <div class="publication-year">In prep.</div>
 
     <div class="publication-content">
-      <div class="publication-title">
+      <span class="publication-title">
         Reconstructing the History of Dengue Circulation in Mayotte (2014—2022).
-      </div>
-
-      <div class="publication-authors">
-       Charlotte Camus, B.Fabrèges, L.Kläy, M.Soler, M.Ruello, H.Noël, J.Balicchi, V.Calvez. 
-      </div>
-
+      </span>
+      <span class="publication-authors">
+        Charlotte Camus, B. Fabrèges, L. Kläy, M. Soler, M. Ruello, H. Noël, J. Balicchi, V. Calvez.
+      </span>
     </div>
   </div>
 
@@ -86,90 +84,81 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
     <div class="publication-year">2026</div>
 
     <div class="publication-content">
-      <div class="publication-title">
+      <span class="publication-title">
         Stochastic dynamics at the back of a gene drive eradication wave.
-
-      <span class="publication-authors">
-        L.Kläy, L.Girardin, F.Débarre, V.Calvez.
-        <span class="publication-journal">
-        <em>Theoritical Population Biology</em>
-        · <a href="https://doi.org/10.1016/j.tpb.2026.02.001" target="_blank" rel="noopener noreferrer">DOI</a>
-        </span>
       </span>
-      </div>
-      
+      <span class="publication-authors">
+        L. Kläy, L. Girardin, F. Débarre, V. Calvez.
+      </span>
+      <span class="publication-journal">
+        <em>Theoretical Population Biology</em>
+        · <a href="https://doi.org/10.1016/j.tpb.2026.02.001" target="_blank" rel="noopener noreferrer">DOI</a>
+      </span>
     </div>
   </div>
 
-  
+
   <div class="publication">
     <div class="publication-year">2025</div>
 
     <div class="publication-content">
-      <div class="publication-title">
-       The spatial spread and the persistence of gene drives are affected by demographic feedbacks, density dependence and Allee effects
-      </div>
-
-      <div class="publication-authors">
-        L.Kläy, L.Girardin, V.Calvez, F.Débarre.
-        <span class="publication-journal">
+      <span class="publication-title">
+        The spatial spread and the persistence of gene drives are affected by demographic feedbacks, density dependence and Allee effects
+      </span>
+      <span class="publication-authors">
+        L. Kläy, L. Girardin, V. Calvez, F. Débarre.
+      </span>
+      <span class="publication-journal">
         <em>Molecular Ecology</em>
         · <a href="https://doi.org/10.1111/mec.70028" target="_blank" rel="noopener noreferrer">DOI</a>
-        </span>
-      </div>
-      
+      </span>
     </div>
   </div>
+
 
   <div class="publication">
     <div class="publication-year">2024</div>
 
     <div class="publication-content">
-      <div class="publication-title">
-        Gene drives across engineered fitness valleys : Reducing risk of spillover using daisy quorum drive.
-      </div>
-
-       <div class="publication-authors">
-        F.J.H.de Haas, L.Kläy, F.Débarre, S.P.Otto.
-        <span class="publication-journal">
+      <span class="publication-title">
+        Gene drives across engineered fitness valleys: Reducing risk of spillover using daisy quorum drive.
+      </span>
+      <span class="publication-authors">
+        F. J. H. de Haas, L. Kläy, F. Débarre, S. P. Otto.
+      </span>
+      <span class="publication-journal">
         <em>PLOS Genetics</em>
         · <a href="https://doi.org/10.1371/journal.pgen.1011262" target="_blank" rel="noopener noreferrer">DOI</a>
-        </span>
-      </div>
-
+      </span>
     </div>
   </div>
+
 
   <div class="publication">
     <div class="publication-year">2023</div>
 
     <div class="publication-content">
-      <div class="publication-title">
-        Pulled, pushed or failed : the demographic impact of a gene drive can change the nature of its spatial spread.
-      </div>
-
-
-      <div class="publication-authors">
-        L.Kläy, L.Girardin, V.Calvez, F.Débarre.
-        <span class="publication-journal">
+      <span class="publication-title">
+        Pulled, pushed or failed: the demographic impact of a gene drive can change the nature of its spatial spread.
+      </span>
+      <span class="publication-authors">
+        L. Kläy, L. Girardin, V. Calvez, F. Débarre.
+      </span>
+      <span class="publication-journal">
         <em>Journal of Mathematical Biology</em>
         · <a href="https://doi.org/10.1007/s00285-023-01926-4" target="_blank" rel="noopener noreferrer">DOI</a>
-        </span>
-      </div>
-
+      </span>
     </div>
   </div>
 
-
 </div>
+
 
 ### Scientific Awards
 
-**Karl-Peter Hadeler Prize,** *Journal of Mathematical Biology (2024).*
-
-**Sophie Germain Master's Scholarship for excellence,** *Mathematics Foundation Jacques Hadamard (2019).* 
-
-**Mathematic Olympiads of Brittany,** *9th out of 859 participants (2014).* 
+- **Karl-Peter Hadeler Prize,** *Journal of Mathematical Biology (2024).*
+- **Sophie Germain Master's Scholarship for excellence,** *Mathematics Foundation Jacques Hadamard (2019).* 
+- **Mathematic Olympiads of Brittany,** *9th out of 859 participants (2014).* 
 
 ### Talks
 
