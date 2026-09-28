@@ -105,3 +105,12 @@ My research lies at the interface of mathematics and biology. I am deeply intere
 <a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_fr.pdf">Fr</a>]. 
 </p>
 
+
+<style>
+.profile-pic {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+</style>
+
