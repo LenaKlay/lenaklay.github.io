@@ -182,7 +182,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
   display: grid;
   grid-template-columns: 70px 1fr;
   column-gap: 25px;
-  margin-bottom: 2rem;
+  margin-bottom: 0rem;
 }
 
 .publication-year {
