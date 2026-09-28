@@ -89,13 +89,13 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
       <div class="publication-title">
         Stochastic dynamics at the back of a gene drive eradication wave.
 
-      <div class="publication-authors">
+      <span class="publication-authors">
         L.Kläy, L.Girardin, F.Débarre, V.Calvez.
         <span class="publication-journal">
         <em>Theoritical Population Biology</em>
         · <a href="https://doi.org/10.1016/j.tpb.2026.02.001" target="_blank" rel="noopener noreferrer">DOI</a>
         </span>
-      </div>
+      </span>
       </div>
       
     </div>
@@ -166,7 +166,9 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 ### Scientific Awards
 
 **Karl-Peter Hadeler Prize,** *Journal of Mathematical Biology (2024).*
+
 **Sophie Germain Master's Scholarship for excellence,** *Mathematics Foundation Jacques Hadamard (2019).* 
+
 **Mathematic Olympiads of Brittany,** *9th out of 859 participants (2014).* 
 
 ### Talks
