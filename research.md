@@ -90,12 +90,12 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
         Stochastic dynamics at the back of a gene drive eradication wave.
       </div>
 
-      <span class="publication-authors">
+      <div class="publication-authors">
         L.Kläy, L.Girardin, F.Débarre, V.Calvez.
-        <div class="publication-journal">
+        <span class="publication-journal">
         <em>Theoritical Population Biology</em>
         · <a href="https://doi.org/10.1016/j.tpb.2026.02.001" target="_blank" rel="noopener noreferrer">DOI</a>
-      </span>
+        </span>
       </div>
       
     </div>
