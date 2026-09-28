@@ -64,34 +64,10 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 ### Publications
 
-- **Reconstructing the History of Dengue Circulation in Mayotte (2014—2022).** [in preparation] — Char-
-lotte Camus, B.Fabrèges, L.Kläy, M.Soler, M.Ruello, H.Noël, J.Balicchi, V.Calvez. 
-
-- **Stochastic dynamics at the back of a gene drive eradication wave.** (2026) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Theoritical Population Biology* <a href="https://doi.org/10.1016/j.tpb.
-2026.02.001" target="_blank" rel="noopener noreferrer">
-    [DOI] </a> 
-
-- **The spatial spread and the persistence of gene drives are affected by demogra-
-phic feedbacks, density dependence and Allee effects** (2025) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Molecular Ecology* <a href="https://doi.org/10.1111/mec.70028" target="_blank" rel="noopener noreferrer">
-    [DOI] </a> 
-
-- **Gene drives across engineered fitness valleys : Reducing risk of spillover using
-daisy quorum drive.** (2024) — F.J.H.de Haas, L.Kläy, F.Débarre, S.P.Otto. *PLOS Genetics* <a href="https:
-//doi.org/10.1371/journal.pgen.1011262" target="_blank" rel="noopener noreferrer">
-    [DOI] </a> 
-
-- **Pulled, pushed or failed : the demographic impact of a gene drive can change
-the nature of its spatial spread.** (2023) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Journal of
-Mathematical Biology* <a href="https://doi.org/10.1007/s00285-023-01926-4" target="_blank" rel="noopener noreferrer">
-    [DOI] </a> 
-
-
-<h3>Publications</h3>
-
 <div class="publications">
 
   <div class="publication">
-    <div class="publication-year">In preparation</div>
+    <div class="publication-year">In prep.</div>
 
     <div class="publication-content">
       <div class="publication-title">
@@ -115,7 +91,7 @@ Mathematical Biology* <a href="https://doi.org/10.1007/s00285-023-01926-4" targe
       </div>
 
       <div class="publication-authors">
-        L.Kläy, L.Girardin, V.Calvez, F.Débarre.
+        L.Kläy, L.Girardin, F.Débarre, V.Calvez.
       </div>
 
       <div class="publication-journal">
@@ -124,6 +100,64 @@ Mathematical Biology* <a href="https://doi.org/10.1007/s00285-023-01926-4" targe
       </div>
     </div>
   </div>
+
+  <div class="publication">
+    <div class="publication-year">2025</div>
+
+    <div class="publication-content">
+      <div class="publication-title">
+       The spatial spread and the persistence of gene drives are affected by demographic feedbacks, density dependence and Allee effects
+      </div>
+
+      <div class="publication-authors">
+        L.Kläy, L.Girardin, V.Calvez, F.Débarre.
+      </div>
+
+      <div class="publication-journal">
+        <em>Molecular Ecology</em>
+        · <a href="#" target="_blank" rel="https://doi.org/10.1111/mec.70028">DOI</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="publication">
+    <div class="publication-year">2024</div>
+
+    <div class="publication-content">
+      <div class="publication-title">
+        Gene drives across engineered fitness valleys : Reducing risk of spillover using daisy quorum drive.
+      </div>
+
+      <div class="publication-authors">
+        F.J.H.de Haas, L.Kläy, F.Débarre, S.P.Otto.
+      </div>
+
+      <div class="publication-journal">
+        <em>PLOS Genetics</em>
+        · <a href="#" target="_blank" rel="https://doi.org/10.1371/journal.pgen.1011262">DOI</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="publication">
+    <div class="publication-year">2023</div>
+
+    <div class="publication-content">
+      <div class="publication-title">
+        Pulled, pushed or failed : the demographic impact of a gene drive can change the nature of its spatial spread.
+      </div>
+
+      <div class="publication-authors">
+        L.Kläy, L.Girardin, V.Calvez, F.Débarre.
+      </div>
+
+      <div class="publication-journal">
+        <em>Journal of Mathematical Biology</em>
+        · <a href="#" target="_blank" rel="https://doi.org/10.1007/s00285-023-01926-4">DOI</a>
+      </div>
+    </div>
+  </div>
+
 
 </div>
 
