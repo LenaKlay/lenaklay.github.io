@@ -13,7 +13,7 @@ I have enjoyed teaching during both my PhD and my first postdoctoral position.
 | Years | Course | Institution | Level | Hours |
 |------|--------|-------------|-------|-------|
 | 2024–2025 | Statistics and probability | University of Western Brittany | BSc | 32h |
-| 2023 | Modelling, analysis and control of dynamic systems | AgroParisTech | BSc | 8h |
+| 2023 | Modelling and analysis of dynamic systems | AgroParisTech | BSc | 8h |
 | 2020–2022 | Mathematics and statistics for biology | Sorbonne University | BSc | 64h |
 | 2020–2022 | Programming fundamentals for biologists | Sorbonne University | BSc | 64h |
 
