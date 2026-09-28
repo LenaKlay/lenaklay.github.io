@@ -103,7 +103,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
     <div class="publication-content">
       <span class="publication-title">
-        The spatial spread and the persistence of gene drives are affected by demographic feedbacks, density dependence and Allee effects
+        The spatial spread and the persistence of gene drives are affected by demographic feedbacks, density dependence and Allee effects.
       </span>
       <span class="publication-authors">
         L. Kläy, L. Girardin, V. Calvez, F. Débarre.
@@ -185,7 +185,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 .publication {
   display: grid;
   grid-template-columns: 25px 1fr;
-  column-gap: 25px;
+  column-gap: 20px;
   margin-bottom: 0.5rem;
 }
 
