@@ -179,7 +179,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 .publication {
   display: grid;
-  grid-template-columns: 35px 1fr;
+  grid-template-columns: 30px 1fr;
   column-gap: 25px;
   margin-bottom: 0.5rem;
 }
