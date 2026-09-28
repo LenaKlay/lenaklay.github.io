@@ -109,14 +109,14 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
        The spatial spread and the persistence of gene drives are affected by demographic feedbacks, density dependence and Allee effects
       </div>
 
-      <div class="publication-authors">
+        <div class="publication-authors">
         L.Kläy, L.Girardin, V.Calvez, F.Débarre.
-      </div>
-
-      <div class="publication-journal">
+        <span class="publication-journal">
         <em>Molecular Ecology</em>
-        · <a href="#" target="_blank" rel="https://doi.org/10.1111/mec.70028">DOI</a>
+        · <a href="https://doi.org/10.1111/mec.70028" target="_blank" rel="noopener noreferrer">DOI</a>
+        </span>
       </div>
+      
     </div>
   </div>
 
@@ -191,7 +191,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 }
 
 .publication-title {
-  font-weight: 550;
+  font-weight: 520;
   margin-bottom: 0.3rem;
 }
 
