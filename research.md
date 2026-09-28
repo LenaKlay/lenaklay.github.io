@@ -170,7 +170,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 <style>
   
 .publications {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
 }
 
 .publication {
@@ -191,7 +191,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 }
 
 .publication-title {
-  font-weight: 500;
+  font-weight: 550;
   margin-bottom: 0.3rem;
 }
 
