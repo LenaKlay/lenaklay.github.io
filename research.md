@@ -171,12 +171,12 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 ### Talks
 
-- Mathematical Models in Ecology and Evolution, England, Oral presentation (2022).
-- Genetic Biocontrol, Gordon Research Conference, California, Poster (2022).
-- Conference "Le Petit Pois Déridé", France, Poster (2022).
-- Congress of Young Researchers in Applied Mathematics, France, Oral presentation (2021).
-- Department of Ecology and Evolution at the University of Lausanne (UNIL), Online, Oral presentation (2021).
-- Society for Mathematical Biology, Online, Oral presentation (2021).
+- Mathematical Models in Ecology and Evolution, England, *Oral presentation* (2022).
+- Genetic Biocontrol, Gordon Research Conference, California, *Poster* (2022).
+- Conference "Le Petit Pois Déridé", France, *Poster* (2022).
+- Congress of Young Researchers in Applied Mathematics, France, *Oral presentation* (2021).
+- Department of Ecology and Evolution at the University of Lausanne (UNIL), Online, *Oral presentation* (2021).
+- Society for Mathematical Biology, Online, *Oral presentation* (2021).
 
 <style>
   
