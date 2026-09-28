@@ -64,7 +64,12 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 ### Publications
 
-...
+- **Pulled, pushed or failed : the demographic impact of a gene drive can change
+the nature of its spatial spread.** (2026) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Journal of
+Mathematical Biology* <a href="https://doi.org/10.1007/s00285-023-01926-4" target="_blank" rel="noopener noreferrer">
+    [DOI] </a> 
+
+
 
 ### Talks
 
