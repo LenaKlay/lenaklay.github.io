@@ -109,7 +109,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
        The spatial spread and the persistence of gene drives are affected by demographic feedbacks, density dependence and Allee effects
       </div>
 
-        <div class="publication-authors">
+      <div class="publication-authors">
         L.Kläy, L.Girardin, V.Calvez, F.Débarre.
         <span class="publication-journal">
         <em>Molecular Ecology</em>
@@ -128,14 +128,14 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
         Gene drives across engineered fitness valleys : Reducing risk of spillover using daisy quorum drive.
       </div>
 
-      <div class="publication-authors">
+       <div class="publication-authors">
         F.J.H.de Haas, L.Kläy, F.Débarre, S.P.Otto.
+        <span class="publication-journal">
+        <em>PLOS Genetics</em>
+        · <a href="https://doi.org/10.1371/journal.pgen.1011262" target="_blank" rel="noopener noreferrer">DOI</a>
+        </span>
       </div>
 
-      <div class="publication-journal">
-        <em>PLOS Genetics</em>
-        · <a href="#" target="_blank" rel="https://doi.org/10.1371/journal.pgen.1011262">DOI</a>
-      </div>
     </div>
   </div>
 
@@ -147,14 +147,15 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
         Pulled, pushed or failed : the demographic impact of a gene drive can change the nature of its spatial spread.
       </div>
 
+
       <div class="publication-authors">
         L.Kläy, L.Girardin, V.Calvez, F.Débarre.
+        <span class="publication-journal">
+        <em>Journal of Mathematical Biology</em>
+        · <a href="https://doi.org/10.1007/s00285-023-01926-4" target="_blank" rel="noopener noreferrer">DOI</a>
+        </span>
       </div>
 
-      <div class="publication-journal">
-        <em>Journal of Mathematical Biology</em>
-        · <a href="#" target="_blank" rel="https://doi.org/10.1007/s00285-023-01926-4">DOI</a>
-      </div>
     </div>
   </div>
 
@@ -170,7 +171,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 <style>
   
 .publications {
-  margin-top: 1rem;
+  margin-top: 0rem;
 }
 
 .publication {
