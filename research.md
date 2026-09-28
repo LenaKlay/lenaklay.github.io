@@ -165,12 +165,12 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 ### Scientific Awards
 
 - **Karl-Peter Hadeler Prize,** *Journal of Mathematical Biology (2024).*
-- **Sophie Germain Master's Scholarship for excellence,** *The Mathematics Foundation Jacques Hadamard (2019).* 
+- **Sophie Germain Master's Scholarship for excellence,** *Mathematics Foundation Jacques Hadamard (2019).* 
 - **Mathematic Olympiads of Brittany,** *9th out of 859 participants (2014).* 
 
 ### Talks
 
-...
+
 
 <style>
   
@@ -180,9 +180,9 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 .publication {
   display: grid;
-  grid-template-columns: 70px 1fr;
+  grid-template-columns: 50px 1fr;
   column-gap: 25px;
-  margin-bottom: 0rem;
+  margin-bottom: 0.5rem;
 }
 
 .publication-year {
