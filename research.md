@@ -162,6 +162,8 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 ### Talks
 
+- Institute of Mathematics of Toulouse, France, *Oral presentation* (2025).
+- Interdisciplinary Mathematics–Biology Thematic Day, France, *Oral presentation* (2022).
 - Mathematical Models in Ecology and Evolution, England, *Oral presentation* (2022).
 - Genetic Biocontrol, Gordon Research Conference, California, *Poster* (2022).
 - Conference "Le Petit Pois Déridé", France, *Poster* (2022).
