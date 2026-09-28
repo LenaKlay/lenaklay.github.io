@@ -86,7 +86,95 @@ Mathematical Biology* <a href="https://doi.org/10.1007/s00285-023-01926-4" targe
     [DOI] </a> 
 
 
+<h3>Publications</h3>
+
+<div class="publications">
+
+  <div class="publication">
+    <div class="publication-year">In preparation</div>
+
+    <div class="publication-content">
+      <div class="publication-title">
+        Reconstructing the History of Dengue Circulation in Mayotte (2014—2022).
+      </div>
+
+      <div class="publication-authors">
+       Charlotte Camus, B.Fabrèges, L.Kläy, M.Soler, M.Ruello, H.Noël, J.Balicchi, V.Calvez. 
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="publication">
+    <div class="publication-year">2026</div>
+
+    <div class="publication-content">
+      <div class="publication-title">
+        Stochastic dynamics at the back of a gene drive eradication wave.
+      </div>
+
+      <div class="publication-authors">
+        L.Kläy, L.Girardin, V.Calvez, F.Débarre.
+      </div>
+
+      <div class="publication-journal">
+        <em>Theoritical Population Biology</em>
+        · <a href="#" target="_blank" rel="https://doi.org/10.1016/j.tpb.2026.02.001">DOI</a>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 ### Talks
 
 ...
+
+<style>
+  
+.publications {
+  margin-top: 1.5rem;
+}
+
+.publication {
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  column-gap: 25px;
+  margin-bottom: 2rem;
+}
+
+.publication-year {
+  font-weight: 600;
+  color: #666;
+  padding-top: 2px;
+}
+
+.publication-content {
+  max-width: 800px;
+}
+
+.publication-title {
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+}
+
+.publication-authors {
+  margin-bottom: 0.2rem;
+}
+
+.publication-journal {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.publication-journal a {
+  color: #1F3A5F;
+  text-decoration: none;
+}
+
+.publication-journal a:hover {
+  text-decoration: underline;
+}
+
+</style>
