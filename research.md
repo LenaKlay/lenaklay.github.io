@@ -193,7 +193,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 .publication-title {
   font-weight: 520;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0rem;
 }
 
 .publication-authors {
