@@ -165,9 +165,9 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 ### Scientific Awards
 
-- **Karl-Peter Hadeler Prize,** *Journal of Mathematical Biology (2024).*
-- **Sophie Germain Master's Scholarship for excellence,** *Mathematics Foundation Jacques Hadamard (2019).* 
-- **Mathematic Olympiads of Brittany,** *9th out of 859 participants (2014).* 
+**Karl-Peter Hadeler Prize,** *Journal of Mathematical Biology (2024).*
+**Sophie Germain Master's Scholarship for excellence,** *Mathematics Foundation Jacques Hadamard (2019).* 
+**Mathematic Olympiads of Brittany,** *9th out of 859 participants (2014).* 
 
 ### Talks
 
