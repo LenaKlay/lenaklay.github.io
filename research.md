@@ -64,8 +64,24 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 ### Publications
 
+- [in preparation]**Reconstructing the History of Dengue Circulation in Mayotte (2014—2022).** — Char-
+lotte Camus, B.Fabrèges, L.Kläy, M.Soler, M.Ruello, H.Noël, J.Balicchi, V.Calvez. 
+
+- **Stochastic dynamics at the back of a gene drive eradication wave.** (2026) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Theoritical Population Biology* <a href="ttps://doi.org/10.1016/j.tpb.
+2026.02.001" target="_blank" rel="noopener noreferrer">
+    [DOI] </a> 
+
+- **The spatial spread and the persistence of gene drives are affected by demogra-
+phic feedbacks, density dependence and Allee effects** (2025) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Molecular Ecology* <a href="https://doi.org/10.1111/mec.70028" target="_blank" rel="noopener noreferrer">
+    [DOI] </a> 
+
+- **Gene drives across engineered fitness valleys : Reducing risk of spillover using
+daisy quorum drive.** (2024) — F.J.H.de Haas, L.Kläy, F.Débarre, S.P.Otto. *PLOS Genetics* <a href="https:
+//doi.org/10.1371/journal.pgen.1011262" target="_blank" rel="noopener noreferrer">
+    [DOI] </a> 
+
 - **Pulled, pushed or failed : the demographic impact of a gene drive can change
-the nature of its spatial spread.** (2026) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Journal of
+the nature of its spatial spread.** (2023) — L.Kläy, L.Girardin, V.Calvez, F.Débarre. *Journal of
 Mathematical Biology* <a href="https://doi.org/10.1007/s00285-023-01926-4" target="_blank" rel="noopener noreferrer">
     [DOI] </a> 
 
