@@ -101,8 +101,7 @@ My research lies at the interface of mathematics and biology. I am deeply intere
 <h2>CV</h2>
 
 <p>
-  For more details, you can find my full CV here [<a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_en.pdf">Eng</a> / 
-<a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_fr.pdf">Fr</a>]. 
+  For more details, you can find my full CV <a href="{{site.baseurl}}/assets/pdf/CV_Lena_Klay_fr.pdf">[here]</a>. 
 </p>
 
 
