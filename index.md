@@ -5,10 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  [ Site en cours de création ]
-</p>
-
 <h1>About me</h1>
 
 <p>
