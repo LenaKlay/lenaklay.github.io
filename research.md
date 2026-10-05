@@ -180,7 +180,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 - <a href="https://ppd2022.sciencesconf.org" class="dark-blue-link"> Conférence du Petit Pois Déridé</a>, Lilles, France, *Poster* (2022).
 - <a href="https://cjc-ma2021.github.io/" class="dark-blue-link"> Congrès des Jeunes Chercheur.se.s en Mathématiques Appliquées</a>, Palaiseau, France, *Oral presentation* (2021).
 - <a href="https://www.unil.ch/dee/en/home.html" class="dark-blue-link"> Département d’Ecologie et d’Evolution à l’Université de Lausanne (UNIL)</a>, Online, *Oral presentation* (2021).
-- <a href="https://www.smb2021.org" class="dark-blue-link"> Society for Mathematical Biology</a>, Online, *Oral presentation* (2021).
+- <a href="https://2021.smb.org/" class="dark-blue-link"> Society for Mathematical Biology</a>, Online, *Oral presentation* (2021).
 
 
 
