@@ -170,16 +170,16 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 
 - Journée d'échanges Pesti et Biodiv, France, *Oral presentation* (2026).
-- <a href="https://rbmr2026.sciencesconf.org/" class="dark-blue-link"> Rencontres Bio-Mathématiques </a>, Roscoff, France, *Oral presentation* (2026) 
-- <a href="https://www.lebesgue.fr/fr/MathsInter26" class="dark-blue-link"> Mathématiques vivantes </a>, Brest, France, *Oral presentation*  (2026)
-- <a href="http://www.cmap.polytechnique.fr/~chaire-mmb/ecole.html" class="dark-blue-link"> École de recherche de la Chaire Modélisation Mathématique et Biodiversité </a>, Aussois, France, *Oral presentation*  (2026)
-- <a href="https://www.math.univ-toulouse.fr/fr/" class="dark-blue-link"> Institut de Mathématiques de Toulouse </a>, France, *Oral presentation* (2025).
-- <a href="https://www.ceremade.dauphine.fr/~amic/jtmb2022" class="dark-blue-link"> Journée thématique interdisciplinaire maths-bio </a>, Paris, France, *Oral presentation* (2022).
-- <a href="https://research.reading.ac.uk/mmee2022/" class="dark-blue-link"> Mathematical Models in Ecology and Evolution </a>, Reading, England, *Oral presentation* (2022).
-- <a href="https://www.grc.org/genetic-biocontrol-conference/2022/" class="dark-blue-link"> Genetic Biocontrol, Gordon Research Conference </a>, Ventura, California, *Poster* (2022).
-- <a href="https://ppd2022.sciencesconf.org" class="dark-blue-link"> Petit Pois Déridé </a>, Lilles, France, *Poster* (2022).
-- <a href="https://cjc-ma2021.github.io/" class="dark-blue-link"> Congrès des Jeunes Chercheur.se.s en Mathématiques Appliquées </a>, Palaiseau, France, *Oral presentation* (2021).
-- <a href="https://www.unil.ch/dee/en/home.html" class="dark-blue-link"> Département d’Ecologie et d’Evolution à l’Université de Lausanne (UNIL) </a>, Online, *Oral presentation* (2021).
+- <a href="https://rbmr2026.sciencesconf.org/" class="dark-blue-link"> Rencontres Bio-Mathématiques</a>, Roscoff, France, *Oral presentation* (2026) 
+- <a href="https://www.lebesgue.fr/fr/MathsInter26" class="dark-blue-link"> Mathématiques vivantes</a>, Brest, France, *Oral presentation*  (2026)
+- <a href="http://www.cmap.polytechnique.fr/~chaire-mmb/ecole.html" class="dark-blue-link"> École de recherche de la Chaire Modélisation Mathématique et Biodiversité</a>, Aussois, France, *Oral presentation*  (2026)
+- <a href="https://www.math.univ-toulouse.fr/fr/" class="dark-blue-link"> Institut de Mathématiques de Toulouse</a>, France, *Oral presentation* (2025).
+- <a href="https://www.ceremade.dauphine.fr/~amic/jtmb2022" class="dark-blue-link"> Journée thématique interdisciplinaire maths-bio</a>, Paris, France, *Oral presentation* (2022).
+- <a href="https://research.reading.ac.uk/mmee2022/" class="dark-blue-link"> Mathematical Models in Ecology and Evolution</a>, Reading, England, *Oral presentation* (2022).
+- <a href="https://www.grc.org/genetic-biocontrol-conference/2022/" class="dark-blue-link"> Genetic Biocontrol, Gordon Research Conference</a>, Ventura, California, *Poster* (2022).
+- <a href="https://ppd2022.sciencesconf.org" class="dark-blue-link"> Conférence du Petit Pois Déridé</a>, Lilles, France, *Poster* (2022).
+- <a href="https://cjc-ma2021.github.io/" class="dark-blue-link"> Congrès des Jeunes Chercheur.se.s en Mathématiques Appliquées</a>, Palaiseau, France, *Oral presentation* (2021).
+- <a href="https://www.unil.ch/dee/en/home.html" class="dark-blue-link"> Département d’Ecologie et d’Evolution à l’Université de Lausanne (UNIL)</a>, Online, *Oral presentation* (2021).
 - <a href="https://www.smb2021.org" class="dark-blue-link"> Society for Mathematical Biology</a>, Online, *Oral presentation* (2021).
 
 
