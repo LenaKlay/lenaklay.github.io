@@ -167,6 +167,12 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 ### Talks
 
+
+
+- Journée d'échanges Pesti et Biodiv, France, *Oral presentation* (2026).
+- <a href="https://rbmr2026.sciencesconf.org/" class="dark-blue-link"> Rencontres Bio-Mathématiques </a>, France, *Oral presentation* (2026) 
+- <a href="https://www.lebesgue.fr/fr/MathsInter26" class="dark-blue-link"> Mathématiques vivantes </a>, France, *Oral presentation*  (2026)
+- <a href="http://www.cmap.polytechnique.fr/~chaire-mmb/ecole.html" class="dark-blue-link"> École de recherche de la Chaire Modélisation Mathématique et Biodiversité </a>, France, *Oral presentation*  (2026)
 - Institute of Mathematics of Toulouse, France, *Oral presentation* (2025).
 - Interdisciplinary Mathematics–Biology Thematic Day, France, *Oral presentation* (2022).
 - Mathematical Models in Ecology and Evolution, England, *Oral presentation* (2022).
@@ -219,6 +225,16 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 }
 
 .publication-journal a:hover {
+  text-decoration: underline;
+}
+
+.dark-blue-link {
+  color: #1F3A5F;
+  text-decoration: none;
+}
+
+.dark-blue-link:hover {
+  color: #142A45;
   text-decoration: underline;
 }
 
