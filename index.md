@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-<h1 style="margin-top: -1rem;">
+<h1>
   About me
 </h1>
 
