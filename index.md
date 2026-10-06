@@ -4,6 +4,7 @@ profile_picture:
   src: /assets/img/profile-pic.png
   alt: website picture
 ---
+<h2>About me</h2>
 
 <p>
 Welcome! I am Léna Kläy, a postdoctoral researcher at CESCO (Centre for Ecology and Conservation Science), Muséum national d’Histoire naturelle, working with Emmanuelle Porcher, Stéphane Robin, and Colin Fontaine. 
