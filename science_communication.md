@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: communication
 title: Science communication
 permalink: /science_communication/
+profile_picture:
+  src: /assets/img/communication.jpeg
+  alt: website picture
 ---
 
 
