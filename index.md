@@ -101,8 +101,8 @@ My research lies at the interface of mathematics and biology. I am deeply intere
 
 <style>
 .profile-pic {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
 }
 </style>
