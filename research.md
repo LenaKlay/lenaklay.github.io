@@ -13,13 +13,14 @@ items:
     methods:
       - Causal inference
       - Model aggregation
+      - Numerical simulations
       - R
   - title: Dengue and chikungunya outbreaks in Mayotte
     image:
       src: /assets/img/work/deng.png
       alt: deng
     description: I developed and implemented a Markov chain Monte Carlo (MCMC) algorithm to fit a joint model integrating routine healthcare surveillance data and survey data, provided by the Agence Régionale de Santé of Mayotte. The model was used to estimate detection rates, investigate the distribution of cases, and identify populations at highest risk of hospitalization.
-    collaborators: with Vincent Calvez, Charlotte Dugourd & Julien Balicchi.
+    collaborators: with Vincent Calvez, Julien Balicchi & Charlotte Dugourd.
     methods:
       - MCMC
       - Bayesian inference
@@ -30,11 +31,13 @@ items:
     image:
       src: /assets/img/work/genedrive.png
       alt: genedrive
-    description: Gene drive alleles bias their own transmission and can therefore spread in a population within a relatively small number of generations, even if they are deleterious. Understanding the potential outcomes of this technology, including the modification and/or the eradication of a natural population, is essential before real-world applications are considered. In my PhD thesis, I focus on the following questions i) will the drive alleles spread? ii) at which speed? iii) how will the density and/or the genetic composition of the population be affected over time? And iv) is there a possibility to spatially confine this spread?  <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
+    description: Understanding the temporal spread of gene drive alleles — alleles that bias their own transmission — through modeling is essential before any field experiments. In my PhD thesis, I investigated the following questions  i) will the drive alleles spread? ii) at which speed? iii) how will the density and/or the genetic composition of the population be affected over time? And iv) is there a possibility to spatially confine this spread? <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
     collaborators: with Florence Débarre, Léo Girardin & Vincent Calvez.
     methods:
       - PDEs
-      - Numerical simulations
+      - Reaction-diffusion
+      - Traveling waves
+      - Stochastic simulations
       - Python
   - title: Population dynamics of a fruit fly pest in Réunion Island
     image:
