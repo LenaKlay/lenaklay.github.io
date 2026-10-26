@@ -8,9 +8,7 @@ items:
     image:
       src: /assets/img/work/bird.png
       alt: bird
-    description: I evaluated and extended causal inference methods to quantify the effect of pesticide in bird populations decline. The methods investigated include two-ways fixed effects models, model-aggregation with the SuperLearner machine-learning algorithm, and one-step estimation. The methods are first validated through simulation studies before being applied to citizen-science bird monitoring data (STOC).
-     I currently evaluate and extend causal inference methods to quantify the effects of pesticide exposure on bird population declines. The methods I am interested in include two-way fixed effects approach, SuperLearner-based model aggregation, and one-step estimation. I first assess their performance through
-simulation studies, before using bird monitoring data from the STOC citizen-science programme.
+    description: I evaluate and extend causal inference methods to quantify the effects of pesticide exposure on bird population declines. The methods I am interested in include; two-way fixed effects approach, SuperLearner-based model aggregation, and one-step estimation. I first assess their performance through simulation studies, before using bird monitoring data from the STOC citizen-science programme.
     collaborators: with Emmanuelle Porcher, Stéphane Robin & Colin Fontaine.
     methods:
       - Causal inference
