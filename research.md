@@ -48,7 +48,7 @@ items:
     image:
       src: /assets/img/work/tree.png
       alt: tree
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: In this project, I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations, more specifically the intra- and interspecific tree distribution patterns in tropical rainforests. The analyses were conducted using forest inventory data from the Paracou experimental site in French Guiana.
     collaborators: with Eric Marcon, Stéphane Traissac & Géraldine Derroire.
     methods:
       - INLA-SPDE
