@@ -18,12 +18,12 @@ items:
     image:
       src: /assets/img/work/deng.png
       alt: deng
-    description: I developed and implemented a Markov chain Monte Carlo (MCMC) algorithm to fit a joint model integrating routine healthcare surveillance data and survey data, provided by ---ARS---- Mayotte. The model was used to investigate the distribution of cases, estimate detection rates and identify populations at highest risk of hospitalization.
+    description: I developed and implemented a Markov chain Monte Carlo (MCMC) algorithm to fit a joint model integrating routine healthcare surveillance data and survey data, provided by the Agence Régionale de Santé of Mayotte. The model was used to estimate detection rates, investigate the distribution of cases, and identify populations at highest risk of hospitalization.
     collaborators: with Vincent Calvez, Charlotte Dugourd & Julien Balicchi.
     methods:
       - MCMC
       - Bayesian inference
-      - Joint models
+      - Integrated model
       - Python
       - R
   - title: Temporal and spatial spread of gene drive alleles
