@@ -28,7 +28,7 @@ items:
     image:
       src: /assets/img/work/genedrive.png
       alt: genedrive
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <a href="{{site.baseurl}}/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
     collaborators: with Florence Débarre & Vincent Calvez.
     methods:
       - Differential equations
@@ -38,7 +38,7 @@ items:
     image:
       src: /assets/img/work/fly.png
       alt: fly
-    description: To investigate the effectiveness of the Sterile Insect Technique as a control strategy, I developed an ODE-based model of Bactrocera dorsalis population dynamics on Réunion Island. I compared sterile-male-only releases with combined releases of sterile males and females, while accounting for asymmetric male mating preferences and female territorial competition. <a href="{{site.baseurl}}/assets/pdf/M2_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
+    description: To investigate the effectiveness of the Sterile Insect Technique as a control strategy, I developed an ODE-based model of Bactrocera dorsalis population dynamics on Réunion Island. I compared sterile-male-only releases with combined releases of sterile males and females, while accounting for asymmetric male mating preferences and female territorial competition. <a href="/assets/pdf/M2_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
     collaborators: with Yves Dumont.
     methods:
       - Ordinary differential equations
@@ -48,7 +48,7 @@ items:
     image:
       src: /assets/img/work/tree.png
       alt: tree
-    description: Using forest inventory data from the Paracou experimental site in French Guiana, I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations in tropical rainforests. <a href="{{site.baseurl}}/assets/pdf/M1_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
+    description: Using forest inventory data from the Paracou experimental site in French Guiana, I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations in tropical rainforests. <a href="/assets/pdf/M1_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
     collaborators: with Eric Marcon, Stéphane Traissac & Géraldine Derroire.
     methods:
       - INLA-SPDE
