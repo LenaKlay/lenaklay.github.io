@@ -24,7 +24,7 @@ items:
       - Statistical inference
       - Python
       - R
-  - title: Study the spatial and temporal spread of gene drive alleles
+  - title: Study the temporal and spatial spread of gene drive alleles
     image:
       src: /assets/img/work/genedrive.png
       alt: genedrive
