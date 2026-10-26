@@ -38,7 +38,7 @@ items:
     image:
       src: /assets/img/work/fly.png
       alt: fly
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: I developed  an ordinary differential equation (ODE) model to investigate the population dynamics of Bactrocera dorsalis, a major fruit fly pest on Réunion Island, and assess the effectiveness of the Sterile Insect Technique (SIT) as a potential control strategy. By incorporating asymmetric male mating preferences and territorial competition among females, the model compared sterile-male-only releases with releases of both sterile males and females, highlighting how the effectiveness of each strategy depends on the role of sterile females in spatial competition.
     collaborators: with Yves Dumont.
     methods:
       - Differential equations
@@ -48,7 +48,7 @@ items:
     image:
       src: /assets/img/work/tree.png
       alt: tree
-    description: In this project, I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations, more specifically the intra- and interspecific tree distribution patterns in tropical rainforests. The analyses were conducted using forest inventory data from the Paracou experimental site in French Guiana.
+    description: In this project, I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations in tropical rainforests. The analyses were conducted using forest inventory data from the Paracou experimental site in French Guiana.
     collaborators: with Eric Marcon, Stéphane Traissac & Géraldine Derroire.
     methods:
       - INLA-SPDE
