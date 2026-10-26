@@ -8,7 +8,9 @@ items:
     image:
       src: /assets/img/work/bird.png
       alt: bird
-    description: I apply and extend causal inference methods to quantify the effect of pesticide in bird populations decline. The methods investigated include two-ways fixed effects models, model-aggregation with the SuperLearner machine-learning algorithm, and one-step estimation. The methods are first validated through simulation studies before being applied to citizen-science bird monitoring data (STOC).
+    description: I evaluated and extended causal inference methods to quantify the effect of pesticide in bird populations decline. The methods investigated include two-ways fixed effects models, model-aggregation with the SuperLearner machine-learning algorithm, and one-step estimation. The methods are first validated through simulation studies before being applied to citizen-science bird monitoring data (STOC).
+     I currently evaluate and extend causal inference methods to quantify the effects of pesticide exposure on bird population declines. The methods I am interested in include two-way fixed effects approach, SuperLearner-based model aggregation, and one-step estimation. I first assess their performance through
+simulation studies, before using bird monitoring data from the STOC citizen-science programme.
     collaborators: with Emmanuelle Porcher, Stéphane Robin & Colin Fontaine.
     methods:
       - Causal inference
@@ -19,7 +21,7 @@ items:
     image:
       src: /assets/img/work/deng.png
       alt: deng
-    description: I developed and implemented a Markov chain Monte Carlo (MCMC) algorithm to fit a joint model integrating routine healthcare surveillance data and survey data, provided by the Agence Régionale de Santé of Mayotte. The model was used to estimate detection rates, investigate the distribution of cases, and identify populations at highest risk of hospitalization.
+    description: I developed and implemented a Markov chain Monte Carlo (MCMC) algorithm to fit an integrated model combining routine healthcare surveillance data and survey data, in collaboration with the Agence Régionale de Santé de Mayotte. The model was used to estimate case detection rates, characterise the distribution of cases, and identify populations at highest risk of hospitalization.
     collaborators: with Vincent Calvez, Julien Balicchi & Charlotte Dugourd.
     methods:
       - MCMC
@@ -31,11 +33,10 @@ items:
     image:
       src: /assets/img/work/genedrive.png
       alt: genedrive
-    description: Understanding the temporal spread of gene drive alleles — alleles that bias their own transmission — through modeling is essential before any field experiments. In my PhD thesis, I investigated the following questions  i) will the drive alleles spread? ii) at which speed? iii) how will the density and/or the genetic composition of the population be affected over time? And iv) is there a possibility to spatially confine this spread? <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
+    description: Gene drive alleles bias their own transmission and can therefore spread in a population within a relatively small number of generations, even if they are deleterious. Mathematical modelling is essential to assess the potential outcomes of this technology before field applications are considered. In my PhD thesis, I investigated the conditions governing gene drive spread, its propagation speed, its effects on population density and genetic composition, and the possibility of spatially confining its spread. <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
     collaborators: with Florence Débarre, Léo Girardin & Vincent Calvez.
     methods:
-      - PDEs
-      - Reaction-diffusion
+      - Reaction-diffusion equations (PDEs)
       - Traveling waves
       - Stochastic simulations
       - Python
@@ -43,7 +44,7 @@ items:
     image:
       src: /assets/img/work/fly.png
       alt: fly
-    description: I developed an ODE-based model of Bactrocera dorsalis population dynamics, to investigate the effectiveness of the Sterile Insect Technique as a control strategy. The model compared sterile-male-only releases with combined releases of sterile males and females, while accounting for asymmetric male mating preferences and female territorial competition. <a href="/assets/pdf/M2_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
+    description: I developed an ordinary differential equation (ODE) model of Bactrocera dorsalis population dynamics, to investigate the effectiveness of the Sterile Insect Technique as a control strategy. The model compared sterile-male-only releases with combined releases of sterile males and females, accounting for asymmetric male mating preferences and female territorial competition. <a href="/assets/pdf/M2_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
     collaborators: with Yves Dumont.
     methods:
       - ODEs
@@ -58,6 +59,7 @@ items:
     methods:
       - INLA-SPDE
       - Bayesian inference
+      - Spatial statistics
       - R   
 ---
 
