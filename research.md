@@ -48,7 +48,7 @@ items:
     image:
       src: /assets/img/work/tree.png
       alt: tree
-    description: I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations in tropical rainforests. The analyses were conducted using forest inventory data from the Paracou experimental site in French Guiana. <a href="{{site.baseurl}}/assets/pdf/M1_thesis.pdf" class="dark-blue-link"> |Master thesis|</a>
+    description: Using forest inventory data from the Paracou experimental site in French Guiana, I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations in tropical rainforests. <a href="{{site.baseurl}}/assets/pdf/M1_thesis.pdf" class="dark-blue-link"> |Master thesis|</a>
     collaborators: with Eric Marcon, Stéphane Traissac & Géraldine Derroire.
     methods:
       - INLA-SPDE
