@@ -30,10 +30,7 @@ items:
     image:
       src: /assets/img/work/genedrive.png
       alt: genedrive
-    description: Gene drive alleles bias their own transmission and can therefore spread in a population
-within a relatively small number of generations, even if they are deleterious. Understanding the
-potential outcomes of this technology, including the modification and/or the eradication of a natural
-population, is essential before real-world applications are considered. In my PhD thesis, I focus on the following questions i) will the drive alleles spread? ii) at which speed? iii) how will the density and/or the genetic composition of the population be affected over time? And iv) is there a possibility to spatially confine this spread?  <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
+    description: Gene drive alleles bias their own transmission and can therefore spread in a population within a relatively small number of generations, even if they are deleterious. Understanding the potential outcomes of this technology, including the modification and/or the eradication of a natural population, is essential before real-world applications are considered. In my PhD thesis, I focus on the following questions i) will the drive alleles spread? ii) at which speed? iii) how will the density and/or the genetic composition of the population be affected over time? And iv) is there a possibility to spatially confine this spread?  <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
     collaborators: with Florence Débarre, Léo Girardin & Vincent Calvez.
     methods:
       - PDEs
