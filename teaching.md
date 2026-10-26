@@ -8,8 +8,6 @@ permalink: /teaching/
 
 ### Courses
 
-I have enjoyed teaching during both my PhD and my first postdoctoral position. 
-
 | Years | Course | Institution | Level | Hours |
 |------|--------|-------------|-------|-------|
 | 2024–2025 | Statistics and probability | Univ. of Western Brittany | BSc | 32h |
