@@ -38,7 +38,7 @@ items:
     image:
       src: /assets/img/work/fly.png
       alt: fly
-    description: I developed an ODE-based model of Bactrocera dorsalis population dynamics, a major fruit fly pest on Réunion Island, to assess the effectiveness of the Sterile Insect Technique as a  control strategy. By accounting for asymmetric male mating preferences and female territorial competition, I compared sterile-male-only releases with combined releases of sterile males and females. <a href="{{site.baseurl}}/assets/pdf/M2_thesis.pdf">[Master thesis]</a>
+    description: I developed an ODE-based model of Bactrocera dorsalis population dynamics on Réunion Island, to assess the effectiveness of the Sterile Insect Technique as a  control strategy. By accounting for asymmetric male mating preferences and female territorial competition, I compared sterile-male-only releases with combined releases of sterile males and females. <a href="{{site.baseurl}}/assets/pdf/M2_thesis.pdf">[Master thesis]</a>
     collaborators: with Yves Dumont.
     methods:
       - Ordinary differential equations
