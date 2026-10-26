@@ -43,7 +43,7 @@ My research lies at the interface of mathematics and biology. I am deeply intere
       <strong> 2024–2025  — Postdoc at <a href="https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr" target="_blank" rel="noopener noreferrer">
     LMBA </a> </strong>
       <p>Modelling dengue and chikungunya transmission in Mayotte</p>
-      <span class="supervisor">Vincent Calvez</span>
+      <span class="supervisor">Vincent Calvez, Julien Balicchi & Charlotte Dugourd </span>
     </div>
   </div>
 
@@ -55,7 +55,7 @@ My research lies at the interface of mathematics and biology. I am deeply intere
       <strong>2020–2023 — PhD at  <a href="https://iees-paris.fr" target="_blank" rel="noopener noreferrer"> 
         iEES Paris </a> </strong>
       <p>	Mathematical models of gene drive for population management</p>
-      <span class="supervisor">Florence Débarre & Vincent Calvez</span>
+      <span class="supervisor">Florence Débarre, Vincent Calvez & Léo Girardin </span>
     </div> 
   </div>
 
