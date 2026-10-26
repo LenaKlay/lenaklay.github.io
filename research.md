@@ -4,11 +4,11 @@ title: Research
 permalink: /research/
 
 items:
-  - title: Impact of pesticides on bird populations generalizing new causal methods
+  - title: Impact of pesticides on bird populations
     image:
       src: /assets/img/work/bird.png
       alt: bird
-    description: This project aims to understand, apply, and extend causal inference methods to quantify the contribution of pesticide use to current and historical declines in bird populations. The methods investigated include two-ways fixed effects models, model-aggregation with the machine-learning algorithm SuperLearner, and one-step estimation. The methods are first validated through simulation studies before being applied to citizen-science bird monitoring data <a href="https://www.vigienature.fr/fr/suivi-des-oiseaux-communs-stoc" class="dark-blue-link"">(STOC)</a> programme.
+    description: I apply and extend causal inference methods to quantify the effect of pesticide in bird populations decline. The methods investigated include two-ways fixed effects models, model-aggregation with the SuperLearner machine-learning algorithm, and one-step estimation. The methods are first validated through simulation studies before being applied to citizen-science bird monitoring data (STOC).
     collaborators: with Emmanuelle Porcher, Stéphane Robin & Colin Fontaine.
     methods:
       - Causal inference
