@@ -12,6 +12,8 @@ items:
     collaborators: with Emmanuelle Porcher, Stéphane Robin & Colin Fontaine.
     methods:
       - Causal inference
+      - Model aggregation
+      - One-step estimation
       - R
   - title: Dengue and chikungunya outbreaks in Mayotte
     image:
@@ -20,8 +22,9 @@ items:
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     collaborators: with Vincent Calvez.
     methods:
-      - MCMC
+      - Markov chain Monte Carlo
       - Statistical inference
+      - Joint models
       - Python
       - R
   - title: The temporal and spatial spread of gene drive alleles
