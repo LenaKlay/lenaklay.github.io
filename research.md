@@ -38,10 +38,10 @@ items:
     image:
       src: /assets/img/work/fly.png
       alt: fly
-    description: I developed  an ordinary differential equation (ODE) model to investigate the population dynamics of Bactrocera dorsalis, a major fruit fly pest on Réunion Island, and assess the effectiveness of the Sterile Insect Technique (SIT) as a potential control strategy. By incorporating asymmetric male mating preferences and territorial competition among females, the model compared sterile-male-only releases with releases of both sterile males and females, highlighting how the effectiveness of each strategy depends on the role of sterile females in spatial competition.
+    description: In this project, I studied ordinary differential equations to model the population dynamics of Bactrocera dorsalis, a major fruit fly pest on Réunion Island, and assess the effectiveness of the Sterile Insect Technique (SIT) as a potential control strategy. By including asymmetric male mating preferences and territorial competition among females in the model, I compared sterile-male-only releases with releases of both sterile males and females, and highlighted how the effectiveness of each strategy depends on the role of sterile females in spatial competition.
     collaborators: with Yves Dumont.
     methods:
-      - Differential equations
+      - Ordinary differential equations
       - Numerical simulations
       - Python
   - title: Study of the intra- and interspecific spatial distribution of trees
