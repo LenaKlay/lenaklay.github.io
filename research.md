@@ -34,11 +34,11 @@ items:
       - Differential equations
       - Numerical simulations
       - Python
-  - title: Modeling population dynamics of Batrocera dorsalis, a fruit fly pest
+  - title: Modeling population dynamics of Batrocera dorsalis, a major fruit fly pest
     image:
       src: /assets/img/work/fly.png
       alt: fly
-    description: In this project, I studied ordinary differential equations to model the population dynamics of Bactrocera dorsalis, a major fruit fly pest on Réunion Island, and assess the effectiveness of the Sterile Insect Technique (SIT) as a potential control strategy. By including asymmetric male mating preferences and territorial competition among females in the model, I compared sterile-male-only releases with releases of both sterile males and females, and highlighted how the effectiveness of each strategy depends on the role of sterile females in spatial competition.
+    description: I modelled the population dynamics of Bactrocera dorsalis, a major fruit fly pest on Réunion Island, using ordinary differential equations (ODEs) to assess the effectiveness of the Sterile Insect Technique (SIT). By accounting for asymmetric male mating preferences and female territorial competition, I compared sterile-male-only releases with combined releases of sterile males and females and highlighted how the effectiveness of each strategy depends on the role of sterile females in spatial competition.
     collaborators: with Yves Dumont.
     methods:
       - Ordinary differential equations
@@ -48,7 +48,7 @@ items:
     image:
       src: /assets/img/work/tree.png
       alt: tree
-    description: In this project, I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations in tropical rainforests. The analyses were conducted using forest inventory data from the Paracou experimental site in French Guiana.
+    description: I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations in tropical rainforests. The analyses were conducted using forest inventory data from the Paracou experimental site in French Guiana.
     collaborators: with Eric Marcon, Stéphane Traissac & Géraldine Derroire.
     methods:
       - INLA-SPDE
