@@ -4,16 +4,16 @@ title: Research
 permalink: /research/
 
 items:
-  - title: Quantifying the impact of pesticides on bird populations using causal methods
+  - title: Impact of pesticides on bird populations generalizing new causal methods
     image:
       src: /assets/img/work/bird.png
       alt: bird
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    description: This project aims to understand, apply, and extend causal inference methods to quantify the contribution of pesticide use to current and historical declines in bird populations. The methods investigated include two-ways fixed effects models, model-aggregation with the machine-learning algorithm SuperLearner, and one-step estimation. The methods are first validated through simulation studies before being applied to citizen-science bird monitoring data <a href="https://www.vigienature.fr/fr/suivi-des-oiseaux-communs-stoc" class="dark-blue-link"">(STOC)</a> programme.
     collaborators: with Emmanuelle Porcher, Stéphane Robin & Colin Fontaine.
     methods:
       - Causal inference
       - R
-  - title: Modeling dengue and chikungunya outbreaks in Mayotte
+  - title: Dengue and chikungunya outbreaks in Mayotte
     image:
       src: /assets/img/work/deng.png
       alt: deng
@@ -24,7 +24,7 @@ items:
       - Statistical inference
       - Python
       - R
-  - title: Study the temporal and spatial spread of gene drive alleles
+  - title: The temporal and spatial spread of gene drive alleles
     image:
       src: /assets/img/work/genedrive.png
       alt: genedrive
@@ -34,17 +34,17 @@ items:
       - Differential equations
       - Numerical simulations
       - Python
-  - title: Modeling population dynamics of Batrocera dorsalis, a major fruit fly pest
+  - title: Population dynamics of a fruit fly pest in Réunion Island
     image:
       src: /assets/img/work/fly.png
       alt: fly
-    description: To investigate the effectiveness of the Sterile Insect Technique as a control strategy, I developed an ODE-based model of Bactrocera dorsalis population dynamics on Réunion Island. I compared sterile-male-only releases with combined releases of sterile males and females, while accounting for asymmetric male mating preferences and female territorial competition. <a href="/assets/pdf/M2_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
+    description: I developed an ODE-based model of Bactrocera dorsalis population dynamics, to investigate the effectiveness of the Sterile Insect Technique as a control strategy. The model compared sterile-male-only releases with combined releases of sterile males and females, while accounting for asymmetric male mating preferences and female territorial competition. <a href="/assets/pdf/M2_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
     collaborators: with Yves Dumont.
     methods:
       - Ordinary differential equations
       - Numerical simulations
       - Python
-  - title: Study of the intra- and interspecific spatial distribution of trees
+  - title: Intra- and interspecific spatial distribution of tropical rainforest trees
     image:
       src: /assets/img/work/tree.png
       alt: tree
