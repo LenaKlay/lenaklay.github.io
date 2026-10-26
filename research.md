@@ -13,17 +13,16 @@ items:
     methods:
       - Causal inference
       - Model aggregation
-      - One-step estimation
       - R
   - title: Dengue and chikungunya outbreaks in Mayotte
     image:
       src: /assets/img/work/deng.png
       alt: deng
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    collaborators: with Vincent Calvez.
+    description: I developed and implemented a Markov chain Monte Carlo (MCMC) algorithm to fit a joint model integrating routine healthcare surveillance data and survey data. The model was used to investigate the distribution of cases, estimate detection rates and identify populations at highest risk of hospitalization.
+    collaborators: with Vincent Calvez, Charlotte Dugourd & Julien Balicchi.
     methods:
-      - Markov chain Monte Carlo
-      - Statistical inference
+      - MCMC
+      - Bayesian inference
       - Joint models
       - Python
       - R
@@ -32,9 +31,9 @@ items:
       src: /assets/img/work/genedrive.png
       alt: genedrive
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
-    collaborators: with Florence Débarre & Vincent Calvez.
+    collaborators: with Florence Débarre, Léo Girardin & Vincent Calvez.
     methods:
-      - Differential equations
+      - PDEs
       - Numerical simulations
       - Python
   - title: Population dynamics of a fruit fly pest in Réunion Island
@@ -44,7 +43,7 @@ items:
     description: I developed an ODE-based model of Bactrocera dorsalis population dynamics, to investigate the effectiveness of the Sterile Insect Technique as a control strategy. The model compared sterile-male-only releases with combined releases of sterile males and females, while accounting for asymmetric male mating preferences and female territorial competition. <a href="/assets/pdf/M2_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
     collaborators: with Yves Dumont.
     methods:
-      - Ordinary differential equations
+      - ODEs
       - Numerical simulations
       - Python
   - title: Intra- and interspecific spatial distribution of tropical rainforest trees
@@ -55,7 +54,7 @@ items:
     collaborators: with Eric Marcon, Stéphane Traissac & Géraldine Derroire.
     methods:
       - INLA-SPDE
-      - Spatial inference
+      - Bayesian inference
       - R   
 ---
 
