@@ -8,7 +8,7 @@ items:
     image:
       src: /assets/img/work/bird.png
       alt: bird
-    description: I evaluate and extend causal inference methods to quantify the effects of pesticide exposure on bird population declines. The methods I am interested in include; two-way fixed effects approach, SuperLearner-based model aggregation, and one-step estimation. I first assess their performance through simulation studies, before using bird monitoring data from the STOC citizen-science programme.
+    description: I evaluate and extend causal inference methods to quantify the contribution of pesticide exposure to bird population declines. My work focuses on several methods, including two-way fixed-effects approaches, SuperLearner-based model aggregation, and one-step estimation. I first assess their performance through simulation studies before applying them to bird monitoring data from the STOC citizen-science programme.
     collaborators: with Emmanuelle Porcher, Stéphane Robin & Colin Fontaine.
     methods:
       - Causal inference
@@ -19,7 +19,7 @@ items:
     image:
       src: /assets/img/work/deng.png
       alt: deng
-    description: I developed and implemented a Markov chain Monte Carlo (MCMC) algorithm to fit an integrated model combining routine healthcare surveillance data and survey data, in collaboration with the Agence Régionale de Santé de Mayotte. The model was used to estimate case detection rates, characterise the distribution of cases, and identify populations at highest risk of hospitalization.
+    description: I implemented a Markov chain Monte Carlo (MCMC) algorithm to fit an integrated model combining routine healthcare surveillance data and survey data, in collaboration with the Agence Régionale de Santé de Mayotte. The model was used to estimate case detection rates, characterise the distribution of cases, and identify populations at highest risk of hospitalization.
     collaborators: with Vincent Calvez, Julien Balicchi & Charlotte Dugourd.
     methods:
       - MCMC
@@ -60,10 +60,6 @@ items:
       - Spatial statistics
       - R   
 ---
-
-<p>
-  [ Page en cours de création ]
-</p>
 
 
 ## Research 
