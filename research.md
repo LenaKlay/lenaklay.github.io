@@ -34,7 +34,8 @@ items:
     description: Gene drive alleles bias their own transmission and can result in the modification and/or the eradication of a natural population. Mathematical modelling is therefore essential  to predict their dynamics and consequences before any field application is considered. In my PhD thesis, I investigated the conditions for gene drive invasion, its speed, its effects on population density and genetic composition, and the feasibility of spatial confinement. <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
     collaborators: with Florence Débarre, Léo Girardin & Vincent Calvez.
     methods:
-      - Reaction-diffusion equations (PDEs)
+      - Reaction-diffusion equations
+      - PDEs
       - Traveling waves
       - Stochastic dynamics
       - Numerical simulations
