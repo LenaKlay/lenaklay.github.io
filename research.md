@@ -8,7 +8,7 @@ items:
     image:
       src: /assets/img/work/bird.png
       alt: bird
-    description: I evaluate and extend causal inference methods to quantify the contribution of pesticide exposure to bird population declines. My work focuses on several methods, including two-way fixed-effects approaches, SuperLearner-based model aggregation, and one-step estimation. I first assess their performance through simulation studies before applying them to bird monitoring data from the STOC citizen-science programme.
+    description: I evaluate and extend causal inference methods to quantify the effects of pesticide exposure on bird populations. My work focuses on several methods, including two-way fixed-effects approaches, SuperLearner-based model aggregation, and one-step estimation. I first assess their performance through simulation studies before applying them to bird monitoring data from the STOC citizen-science programme.
     collaborators: with Emmanuelle Porcher, Stéphane Robin & Colin Fontaine.
     methods:
       - Causal inference
@@ -19,7 +19,7 @@ items:
     image:
       src: /assets/img/work/deng.png
       alt: deng
-    description: I implemented a Markov chain Monte Carlo (MCMC) algorithm to fit an integrated model combining routine healthcare surveillance data and survey data, in collaboration with the Agence Régionale de Santé de Mayotte. The model was used to estimate case detection rates, characterise the distribution of cases, and identify populations at highest risk of hospitalization.
+    description: In collaboration with the Agence Régionale de Santé (ARS) de Mayotte, I implemented a Markov chain Monte Carlo (MCMC) algorithm to fit an integrated model combining routine healthcare surveillance data and survey data. The model was used to estimate case detection rates, characterise the distribution of cases, and identify populations at highest risk of hospitalisation.
     collaborators: with Vincent Calvez, Julien Balicchi & Charlotte Dugourd.
     methods:
       - MCMC
@@ -31,12 +31,13 @@ items:
     image:
       src: /assets/img/work/genedrive.png
       alt: genedrive
-    description: Gene drive alleles bias their own transmission and can therefore spread in a population within a relatively small number of generations, even if they are deleterious. Mathematical modelling is essential to assess the potential outcomes of this technology before field applications are considered. In my PhD thesis, I investigated the conditions governing gene drive spread, its propagation speed, its effects on population density and genetic composition, and the possibility of spatially confining its spread. <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
+    description: Gene drive alleles bias their own transmission and can result in the modification and/or the eradication of a natural population. Mathematical modelling is therefore essential  to predict their dynamics and consequences before any field application is considered. In my PhD thesis, I investigated the conditions for gene drive invasion, its speed, its effects on population density and genetic composition, and the feasibility of spatial confinement. <a href="/assets/pdf/PhD.pdf" class="dark-blue-link""> [Read PhD thesis]</a>
     collaborators: with Florence Débarre, Léo Girardin & Vincent Calvez.
     methods:
       - Reaction-diffusion equations (PDEs)
       - Traveling waves
-      - Stochastic simulations
+      - Stochastic dynamics
+      - Numerical simulations
       - Python
   - title: Population dynamics of a fruit fly pest in Réunion Island
     image:
@@ -52,7 +53,7 @@ items:
     image:
       src: /assets/img/work/tree.png
       alt: tree
-    description: Using forest inventory data from the Paracou experimental site in French Guiana, I investigated the potential and limitations of INLA-SPDE spatial modelling methods to characterise the spatial structure of tree populations in tropical rainforests. <a href="/assets/pdf/M1_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
+    description: Using forest inventory data from the Paracou experimental site in French Guiana, I evaluated the strengths and limitations of INLA-SPDE spatial modelling methods to characterise within- and between-species spatial patterns in tropical tree communities. <a href="/assets/pdf/M1_thesis.pdf" class="dark-blue-link"> [Read Master thesis]</a>
     collaborators: with Eric Marcon, Stéphane Traissac & Géraldine Derroire.
     methods:
       - INLA-SPDE
