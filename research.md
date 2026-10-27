@@ -19,7 +19,7 @@ items:
     image:
       src: /assets/img/work/deng.png
       alt: deng
-    description: In collaboration with the Agence Régionale de Santé (ARS) de Mayotte, I implemented a Markov chain Monte Carlo (MCMC) algorithm to fit an integrated model combining routine healthcare surveillance data and survey data. The model was used to estimate case detection rates, characterise the distribution of cases, and identify populations at highest risk of hospitalisation.
+    description: In collaboration with the Agence Régionale de Santé (ARS) de Mayotte, I also implemented a Markov chain Monte Carlo (MCMC) algorithm to fit an integrated model combining routine healthcare surveillance data and survey data. The model was used to estimate case detection rates, characterise the distribution of cases, and identify populations at highest risk of hospitalisation.
     collaborators: with Vincent Calvez, Julien Balicchi & Charlotte Dugourd.
     methods:
       - MCMC
