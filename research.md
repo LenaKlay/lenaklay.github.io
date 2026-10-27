@@ -178,9 +178,10 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 - <a href="https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/dragon/" class="dark-blue-link"> CESAB group DRAGON</a>, Montpellier France, *Oral presentation* (2026).
 - Journée d'échanges Pesti et Biodiv, Paris France, *Oral presentation* (2026).
-- <a href="https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/impacts/" class="dark-blue-link"> CESAB group IMPACTS </a>, Montpellier France, *Oral presentation* (2026).
 - <a href="https://rbmr2026.sciencesconf.org/" class="dark-blue-link"> Rencontres Bio-Mathématiques</a>, Roscoff France, *Oral presentation* (2026).
 - <a href="https://www.lebesgue.fr/fr/MathsInter26" class="dark-blue-link"> Mathématiques vivantes</a>, Brest France, *Oral presentation*  (2026)
+- <a href="https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/impacts/" class="dark-blue-link"> CESAB group IMPACTS </a>, Montpellier France, *Oral presentation* (2026).
+
 - <a href="https://www.cmap.polytechnique.fr/~chaire-mmb/Aussois2025.html" class="dark-blue-link"> École de recherche de la Chaire Modélisation Mathématique et Biodiversité</a>, Aussois France, *Oral presentation* (2025).
 - <a href="https://www.math.univ-toulouse.fr/fr/" class="dark-blue-link"> Institut de Mathématiques de Toulouse</a>, France, *Oral presentation* (2025).
 - <a href="https://www.ceremade.dauphine.fr/~amic/jtmb2022" class="dark-blue-link"> Journée thématique interdisciplinaire maths-bio</a>, Paris France, *Oral presentation* (2022).
