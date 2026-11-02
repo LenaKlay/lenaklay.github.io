@@ -21,9 +21,5 @@ As the Muséum is not directly affiliated with a university, I am not currently 
 
 ### Student supervision
 
-I also had the pleasure of supervising two students:
-
-- **Xavier Mauger** (2026), MSc — *Geostatistical modeling to assess the effect of pesticides on common bird abundance*,
+- **Xavier Mauger** (2026-present), MSc and PhD — *Geostatistical modelling of the spatio-temporal dynamics of common bird populations across mainland France, in the context of global change*,
 - **Joris Fresard** (2023), MSc — *Modeling the spatial spread of an allele under frequency-dependent selection*.
-
-Xavier Mauger has successfully passed the doctoral school selection process this year, and will continue with us as a PhD student.
