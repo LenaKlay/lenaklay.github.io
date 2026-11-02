@@ -11,6 +11,7 @@ items:
     description: My current research focuses on evaluating and extending causal inference methods to quantify the effects of pesticide exposure on bird populations. My work focuses on several methods, including two-way fixed-effects approaches, SuperLearner-based model aggregation, and one-step estimation. I first assess their performance through simulation studies before applying them to bird monitoring data from the STOC citizen-science programme.
     collaborators: with Emmanuelle Porcher, Stéphane Robin & Colin Fontaine.
     methods:
+      - Statistics
       - Causal inference
       - Model aggregation
       - Numerical simulations
