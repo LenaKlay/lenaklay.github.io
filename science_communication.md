@@ -17,5 +17,5 @@ Beyond being a wonderful tool for satisfying our curiosity, science has also a k
 <div style="text-align: center; margin-top: 30px;">
   <img src="/assets/img/commu.png"
        alt="logos"
-       style="width: 100%; max-width: 500px; height: auto;">
+       style="width: 120%; max-width: 1000px; height: auto;">
 </div>
