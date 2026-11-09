@@ -14,6 +14,12 @@ I see science as a powerful tool to explore and better understand the world arou
 Beyond being a wonderful tool for satisfying our curiosity, science has also a key role to play in informing public debate and addressing misinformation. Working on a highly mediated topic such as pesticides has encouraged me to extend my activities beyond research, developing my skills in communicating with journalists (media training with <a href="https://expertisesclimat.fr/" class="dark-blue-link">Expertises Climat</a> and <a href="https://formation.ifsem.cnrs.fr/training/1832/5239" class="dark-blue-link">CNRS</a>) and making my research accessible to wider audiences (such as <a href="https://www.observatoire-agricole-biodiversite.fr/" class="dark-blue-link">OAB</a> and <a href="https://ecophytopic.fr/pic/exposition-et-impacts/reseau-500-eni-biovigilance" class="dark-blue-link">500ENI</a> networks).
 
 
+<div style="text-align: center; margin-top: 30px;">
+  <img src="/assets/img/commu.png"
+       alt="logos"
+       style="width: 60%; max-width: 500px; height: auto;">
+</div>
+
 <style>
 
 .dark-blue-link {
