@@ -19,17 +19,3 @@ Beyond being a wonderful tool for satisfying our curiosity, science has also a k
        alt="logos"
        style="width: 60%; max-width: 500px; height: auto;">
 </div>
-
-<style>
-
-.dark-blue-link {
-  color: #1F3A5F;
-  text-decoration: none;
-}
-
-.dark-blue-link:hover {
-  color: #142A45;
-  text-decoration: underline;
-}
-
-</style>
