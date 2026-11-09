@@ -7,10 +7,11 @@
   border: #ccc 1px solid;
   border-radius: 10px;
   margin-left: 50px;
+  margin-bottom: 30px;
 
   @include mixins.media-query(variables.$on-mobile) {
     float: none;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     margin-left: 0px;
   }
 }
