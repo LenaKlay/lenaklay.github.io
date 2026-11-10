@@ -169,7 +169,7 @@ I have had the opportunity to apply mathematics to a wide range of fields, from 
 
 - **Karl-Peter Hadeler Prize,** *Journal of Mathematical Biology (2024).*
 - **Sophie Germain MSc Scholarship for excellence,** *Mathematics Foundation Jacques Hadamard (2019).*
-- 
+
 <div style="height: 20px;"></div>
 
 
